@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Rats.RatsModSettings">
+		<RotDays>6</RotDays>
+		<MinDays>2.4</MinDays>
+		<MaxTotalRats>30</MaxTotalRats>
+		<ManualRats>
+			<li>Rat</li>
+			<li>WasteRat</li>
+		</ManualRats>
+		<SpawnInside />
+		<SpawnFoodOnly />
+		<SpawnCorpseOnly />
+	</ModSettings>
+</SettingsBlock>

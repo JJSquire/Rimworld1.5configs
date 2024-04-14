@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CM_Semi_Random_Research.SemiRandomResearchModSettings">
+		<allowManualReroll>Once</allowManualReroll>
+		<amountSelection>PerColonist</amountSelection>
+		<availableProjectCount>6</availableProjectCount>
+		<additionalProjectPerXColonists>2</additionalProjectPerXColonists>
+		<maxProjectCount>10</maxProjectCount>
+		<experimentalAnomalySupport>True</experimentalAnomalySupport>
+	</ModSettings>
+</SettingsBlock>

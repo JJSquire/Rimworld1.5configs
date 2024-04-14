@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TD_Enhancement_Pack.Settings">
+		<zoneRefill>False</zoneRefill>
+	</ModSettings>
+</SettingsBlock>

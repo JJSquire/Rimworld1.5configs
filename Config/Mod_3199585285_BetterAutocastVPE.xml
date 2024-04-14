@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterAutocastVPE.Settings.AutocastSettings">
+		<DeathshieldColonyAnimals>False</DeathshieldColonyAnimals>
+		<WordOfSerenityTargetColonists>True</WordOfSerenityTargetColonists>
+		<WordOfSerenityIgnoredMentalStateDefs>
+			<li>Crying</li>
+			<li>Giggling</li>
+			<li>BerserkTrance</li>
+			<li>BerserkWarcall</li>
+		</WordOfSerenityIgnoredMentalStateDefs>
+		<WordOfImmunityTargetColonyAnimals>False</WordOfImmunityTargetColonyAnimals>
+		<DraftedAutocastDefs>
+			<li>VPE_AdrenalineRush</li>
+			<li>VPE_BladeFocus</li>
+			<li>VPE_ControlledFrenzy</li>
+			<li>VPE_Deathshield</li>
+			<li>VPE_FiringFocus</li>
+			<li>VPE_GuidedShot</li>
+			<li>VPE_Invisibility</li>
+			<li>VPE_SpeedBoost</li>
+		</DraftedAutocastDefs>
+		<UndraftedAutocastDefs>
+			<li>VPE_Darkvision</li>
+			<li>VPE_Deathshield</li>
+			<li>VPE_Eclipse</li>
+			<li>VPE_EnchantQuality</li>
+			<li>VPE_Mend</li>
+			<li>VPE_PsychicGuidance</li>
+			<li>VPE_SpeedBoost</li>
+			<li>VPE_StealVitality</li>
+			<li>VPE_WordofImmunity</li>
+			<li>VPE_WordofJoy</li>
+			<li>VPE_WordofProductivity</li>
+			<li>VPE_WordofSerenity</li>
+			<li>VPEP_BrainLeech</li>
+		</UndraftedAutocastDefs>
+		<BlockedJobDefs>
+			<li>DeliverToBed</li>
+			<li>Ingest</li>
+			<li>LayDown</li>
+			<li>SpectateCeremony</li>
+			<li>VFEA_GotoTargetAndUseAbility</li>
+			<li>VFEA_UseAbility</li>
+			<li>Wait_Asleep</li>
+			<li>Wait_Downed</li>
+		</BlockedJobDefs>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Disco.Settings">
+		<dontShowAgain>True</dontShowAgain>
+		<filePaths />
+		<sequenceWeights>
+			<keys />
+			<values />
+		</sequenceWeights>
+	</ModSettings>
+</SettingsBlock>

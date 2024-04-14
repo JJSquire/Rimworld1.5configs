@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Vehicles.VehiclesModSettings">
+		<main />
+		<vehicles>
+			<fieldSettings>
+				<li>
+					<key>VVE_BangBus</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Bunsen</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Dinghy</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Dirtbike</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Frog</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Highwayman</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Mule</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Prowler</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Roadkill</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Scytheman</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Toad</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Traveller</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Bulldog</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Charley</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Mosquito</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Roadrunner</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Smuggler</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Snatcher</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Tango</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Trawler</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Wagon</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Warbird</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Wisent</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Badger</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_BigRig</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Burya</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Cherokee</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Goliath</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Hermano</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Lightning</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Louie</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Marshal</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Nomad</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Paladin</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Springbok</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Udar</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>AV_Cog</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>AV_Junk</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>AV_Longship</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>AV_Caravel</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>AV_PirateCaravel</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>AV_Sloop</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>AV_Brig</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>AV_Frigate</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>AV_Galleon</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+			</fieldSettings>
+			<vanillaStats />
+			<vehicleStats />
+			<defaultGraphics>
+				<keys />
+				<values />
+			</defaultGraphics>
+		</vehicles>
+		<debug />
+		<colorStorage>
+			<paletteColorOnes>
+				<li>RGBA(0.306, 0.329, 0.306, 1.000)</li>
+				<li>RGBA(0.569, 0.318, 0.259, 1.000)</li>
+				<li>RGBA(0.565, 0.545, 0.533, 1.000)</li>
+				<li>RGBA(0.533, 0.576, 0.753, 1.000)</li>
+				<li>RGBA(0.580, 0.580, 0.580, 1.000)</li>
+				<li>RGBA(0.502, 0.216, 0.216, 1.000)</li>
+				<li>RGBA(0.886, 0.843, 0.647, 1.000)</li>
+				<li>RGBA(0.412, 0.643, 0.565, 1.000)</li>
+				<li>RGBA(0.788, 0.804, 0.753, 1.000)</li>
+				<li>RGBA(0.361, 0.275, 0.118, 1.000)</li>
+				<li>RGBA(0.573, 0.537, 0.514, 1.000)</li>
+				<li>RGBA(0.451, 0.573, 0.580, 1.000)</li>
+				<li>RGBA(0.741, 0.714, 0.678, 1.000)</li>
+				<li>RGBA(0.549, 0.667, 0.482, 1.000)</li>
+				<li>RGBA(0.871, 0.741, 0.235, 1.000)</li>
+				<li>RGBA(0.208, 0.192, 0.188, 1.000)</li>
+				<li>RGBA(0.420, 0.443, 0.192, 1.000)</li>
+				<li>RGBA(0.937, 0.937, 0.937, 1.000)</li>
+				<li>RGBA(0.576, 0.537, 0.490, 1.000)</li>
+				<li>RGBA(0.580, 0.592, 0.459, 1.000)</li>
+			</paletteColorOnes>
+			<paletteColorTwos>
+				<li>RGBA(0.255, 0.263, 0.239, 1.000)</li>
+				<li>RGBA(0.557, 0.282, 0.263, 1.000)</li>
+				<li>RGBA(0.388, 0.365, 0.353, 1.000)</li>
+				<li>RGBA(0.396, 0.451, 0.569, 1.000)</li>
+				<li>RGBA(0.392, 0.392, 0.392, 1.000)</li>
+				<li>RGBA(0.263, 0.349, 0.699, 1.000)</li>
+				<li>RGBA(0.561, 0.478, 0.353, 1.000)</li>
+				<li>RGBA(0.345, 0.490, 0.467, 1.000)</li>
+				<li>RGBA(0.686, 0.698, 0.631, 1.000)</li>
+				<li>RGBA(0.290, 0.204, 0.063, 1.000)</li>
+				<li>RGBA(0.329, 0.294, 0.267, 1.000)</li>
+				<li>RGBA(0.345, 0.478, 0.475, 1.000)</li>
+				<li>RGBA(0.792, 0.769, 0.733, 1.000)</li>
+				<li>RGBA(0.349, 0.494, 0.275, 1.000)</li>
+				<li>RGBA(0.969, 0.843, 0.420, 1.000)</li>
+				<li>RGBA(0.333, 0.314, 0.302, 1.000)</li>
+				<li>RGBA(0.310, 0.341, 0.149, 1.000)</li>
+				<li>RGBA(0.722, 0.725, 0.722, 1.000)</li>
+				<li>RGBA(0.369, 0.302, 0.243, 1.000)</li>
+				<li>RGBA(0.451, 0.475, 0.353, 1.000)</li>
+			</paletteColorTwos>
+			<paletteColorThrees>
+				<li>RGBA(0.388, 0.271, 0.231, 1.000)</li>
+				<li>RGBA(0.333, 0.200, 0.157, 1.000)</li>
+				<li>RGBA(0.278, 0.259, 0.251, 1.000)</li>
+				<li>RGBA(0.380, 0.380, 0.424, 1.000)</li>
+				<li>RGBA(0.196, 0.196, 0.196, 1.000)</li>
+				<li>RGBA(0.722, 0.722, 0.722, 1.000)</li>
+				<li>RGBA(0.463, 0.380, 0.271, 1.000)</li>
+				<li>RGBA(0.337, 0.353, 0.376, 1.000)</li>
+				<li>RGBA(0.490, 0.518, 0.427, 1.000)</li>
+				<li>RGBA(0.667, 0.553, 0.388, 1.000)</li>
+				<li>RGBA(0.263, 0.239, 0.227, 1.000)</li>
+				<li>RGBA(0.227, 0.290, 0.278, 1.000)</li>
+				<li>RGBA(0.365, 0.345, 0.302, 1.000)</li>
+				<li>RGBA(0.200, 0.353, 0.125, 1.000)</li>
+				<li>RGBA(0.627, 0.502, 0.039, 1.000)</li>
+				<li>RGBA(0.141, 0.141, 0.141, 1.000)</li>
+				<li>RGBA(0.365, 0.243, 0.031, 1.000)</li>
+				<li>RGBA(0.776, 0.847, 0.902, 1.000)</li>
+				<li>RGBA(0.149, 0.114, 0.094, 1.000)</li>
+				<li>RGBA(0.839, 0.859, 0.259, 1.000)</li>
+			</paletteColorThrees>
+		</colorStorage>
+		<promptVehicleCollision>False</promptVehicleCollision>
+	</ModSettings>
+</SettingsBlock>

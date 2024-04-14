@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BiomesPrehistoric.PrehistoricSettings">
+		<animalCommonality>15</animalCommonality>
+		<plantCommonality>10</plantCommonality>
+		<PrehistoricAnimalOverride>
+			<keys />
+			<values />
+		</PrehistoricAnimalOverride>
+	</ModSettings>
+</SettingsBlock>

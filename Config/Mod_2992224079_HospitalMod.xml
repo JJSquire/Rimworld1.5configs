@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Hospital.Settings">
+		<acceptSurgery>False</acceptSurgery>
+		<silverMultiplier>1.154255</silverMultiplier>
+	</ModSettings>
+</SettingsBlock>
