@@ -3,13 +3,24 @@
 	<ModSettings Class="TabSorting.TabSortingModSettings">
 		<SortFloors>True</SortFloors>
 		<SortDoorsAndWalls>True</SortDoorsAndWalls>
+		<SortTablesAndChairs>True</SortTablesAndChairs>
+		<SortBedroomFurniture>True</SortBedroomFurniture>
 		<SortIdeologyFurniture>True</SortIdeologyFurniture>
 		<SortStorage>True</SortStorage>
+		<SortKitchenFurniture>True</SortKitchenFurniture>
 		<SortResearchFurniture>True</SortResearchFurniture>
 		<CategoriesToIgnore />
 		<ManualSorting>
-			<keys />
-			<values />
+			<keys>
+				<li>Loudspeaker</li>
+				<li>LightBall</li>
+				<li>Forgotten_ElderBrainPool</li>
+			</keys>
+			<values>
+				<li>Ideology</li>
+				<li>Ideology</li>
+				<li>Misc</li>
+			</values>
 		</ManualSorting>
 		<ManualTabs>
 			<keys />
@@ -661,7 +672,6 @@
 				<li>Gun_SniperRifle</li>
 				<li>Bullet_SniperRifle</li>
 				<li>Gun_Minigun</li>
-				<li>Bullet_Minigun</li>
 				<li>Bullet_Rocket</li>
 				<li>Bullet_DoomsdayRocket</li>
 				<li>Weapon_GrenadeFrag</li>
@@ -4074,6 +4084,82 @@
 				<li>VRecyclingE_RadioactiveIsotopack</li>
 				<li>VRecyclingE_Trash</li>
 				<li>VRecyclingE_TrashBrick</li>
+				<li>VFET_FloorPainting</li>
+				<li>VFET_SittingSpot</li>
+				<li>VFET_ResearchSpot</li>
+				<li>VFET_AnimalTrap</li>
+				<li>VFET_LargeFire</li>
+				<li>VFET_Apparel_TribalLight</li>
+				<li>VFET_Apparel_TribalHeavy</li>
+				<li>VFET_Apparel_TribalWar</li>
+				<li>VFET_LargeFireSpark</li>
+				<li>VFET_Chunk</li>
+				<li>VFET_Stake</li>
+				<li>VFET_Throwspikes</li>
+				<li>VFET_ThrowspikesThrown</li>
+				<li>VCEF_Mote_Fishing_East</li>
+				<li>VCEF_Mote_Fishing_West</li>
+				<li>VCEF_Mote_Fishing_South</li>
+				<li>VCEF_Mote_Fishing_North</li>
+				<li>VCEF_Mote_Fishing_Mech_East</li>
+				<li>VCEF_Mote_Fishing_Mech_West</li>
+				<li>VCEF_Mote_Fishing_Mech_South</li>
+				<li>VCEF_Mote_Fishing_Mech_North</li>
+				<li>VCEF_Mote_Fishing_Mech_New_East</li>
+				<li>VCEF_Mote_Fishing_Mech_New_West</li>
+				<li>VCEF_Mote_Fishing_Mech_New_South</li>
+				<li>VCEF_Mote_Fishing_Mech_New_North</li>
+				<li>VCEF_RawAnchovy</li>
+				<li>VCEF_RawAngelfish</li>
+				<li>VCEF_RawAnglerfish</li>
+				<li>VCEF_RawBass</li>
+				<li>VCEF_RawCatfish</li>
+				<li>VCEF_RawClownfish</li>
+				<li>VCEF_RawCod</li>
+				<li>VCEF_RawEel</li>
+				<li>VCEF_RawGoldfish</li>
+				<li>VCEF_RawGuppy</li>
+				<li>VCEF_RawHaddock</li>
+				<li>VCEF_RawHalibut</li>
+				<li>VCEF_RawHerring</li>
+				<li>VCEF_RawKoi</li>
+				<li>VCEF_RawLobster</li>
+				<li>VCEF_RawMackerel</li>
+				<li>VCEF_RawMinnow</li>
+				<li>VCEF_RawPerch</li>
+				<li>VCEF_RawPiranha</li>
+				<li>VCEF_RawPufferfish</li>
+				<li>VCEF_RawSalmon</li>
+				<li>VCEF_RawSprat</li>
+				<li>VCEF_RawSwordfish</li>
+				<li>VCEF_RawTrout</li>
+				<li>VCEF_RawTuna</li>
+				<li>RG_RawDevilsHole</li>
+				<li>RG_RawColdSlaughterfish</li>
+				<li>RG_RawWarmSlaughterfish</li>
+				<li>RG_Hemolope</li>
+				<li>RG_Mote_WaterFog</li>
+				<li>RG_Mote_DevilDustPuff</li>
+				<li>RG_DustDevil</li>
+				<li>RG_AncientConcrete</li>
+				<li>RG_Lava</li>
+				<li>RG_LavaRock</li>
+				<li>RG_HotSpringSand</li>
+				<li>RG_HotSpring</li>
+				<li>RG_HotSpringDeep</li>
+				<li>RG_EggKiwiFertilized</li>
+				<li>RG_RawRaspberries</li>
+				<li>RG_Filth_LeavesTreeOak</li>
+				<li>RG_Filth_LeavesTreePopolar</li>
+				<li>RG_Filth_LeavesTreeBirch</li>
+				<li>RG_Filth_LeavesTreeAnima</li>
+				<li>RG_Filth_Neutroamine</li>
+				<li>RG_Plant_RaspberryCultivated</li>
+				<li>RG_Plant_BerryCultivated</li>
+				<li>RG_Plant_Raspberry</li>
+				<li>RG_Rabbit</li>
+				<li>RG_Neutrolope</li>
+				<li>RG_KiwiBird</li>
 				<li>VFEE_OrbitalSlicer</li>
 				<li>VFEE_Poison</li>
 				<li>VFEE_Aperitif</li>
@@ -4694,43 +4780,6 @@
 				<li>VCE_Sugarcane</li>
 				<li>VCE_Allspice</li>
 				<li>VCE_Wheat</li>
-				<li>VCEF_Mote_Fishing_East</li>
-				<li>VCEF_Mote_Fishing_West</li>
-				<li>VCEF_Mote_Fishing_South</li>
-				<li>VCEF_Mote_Fishing_North</li>
-				<li>VCEF_Mote_Fishing_Mech_East</li>
-				<li>VCEF_Mote_Fishing_Mech_West</li>
-				<li>VCEF_Mote_Fishing_Mech_South</li>
-				<li>VCEF_Mote_Fishing_Mech_North</li>
-				<li>VCEF_Mote_Fishing_Mech_New_East</li>
-				<li>VCEF_Mote_Fishing_Mech_New_West</li>
-				<li>VCEF_Mote_Fishing_Mech_New_South</li>
-				<li>VCEF_Mote_Fishing_Mech_New_North</li>
-				<li>VCEF_RawAnchovy</li>
-				<li>VCEF_RawAngelfish</li>
-				<li>VCEF_RawAnglerfish</li>
-				<li>VCEF_RawBass</li>
-				<li>VCEF_RawCatfish</li>
-				<li>VCEF_RawClownfish</li>
-				<li>VCEF_RawCod</li>
-				<li>VCEF_RawEel</li>
-				<li>VCEF_RawGoldfish</li>
-				<li>VCEF_RawGuppy</li>
-				<li>VCEF_RawHaddock</li>
-				<li>VCEF_RawHalibut</li>
-				<li>VCEF_RawHerring</li>
-				<li>VCEF_RawKoi</li>
-				<li>VCEF_RawLobster</li>
-				<li>VCEF_RawMackerel</li>
-				<li>VCEF_RawMinnow</li>
-				<li>VCEF_RawPerch</li>
-				<li>VCEF_RawPiranha</li>
-				<li>VCEF_RawPufferfish</li>
-				<li>VCEF_RawSalmon</li>
-				<li>VCEF_RawSprat</li>
-				<li>VCEF_RawSwordfish</li>
-				<li>VCEF_RawTrout</li>
-				<li>VCEF_RawTuna</li>
 				<li>VME_SmallFishingTrap</li>
 				<li>VME_MediumFishingTrap</li>
 				<li>VME_LargeFishingTrap</li>
@@ -5178,6 +5227,51 @@
 				<li>SkyLightC</li>
 				<li>GlassPane</li>
 				<li>DF_WetSoil</li>
+				<li>EccentricMilitorBeacon</li>
+				<li>Gun_ArchotechShotgun</li>
+				<li>Bullet_ArchoShotgun_Cluster</li>
+				<li>Gun_BochiShotgun</li>
+				<li>Bullet_BochiShotgun_Cluster</li>
+				<li>Gun_CarrotShotgun</li>
+				<li>Bullet_CarrotShotgun_Cluster</li>
+				<li>Gun_CluckShotgun</li>
+				<li>Bullet_CluckShotgun</li>
+				<li>Gun_SharkShotgun</li>
+				<li>Bullet_SharkShotgun_Cluster</li>
+				<li>Gun_KnightShotgun</li>
+				<li>Bullet_KnightShotgun_Cluster</li>
+				<li>Gun_RimRimShotgun</li>
+				<li>Bullet_RimRimShotgun_Cluster</li>
+				<li>Gun_SantasDoubleBarrel</li>
+				<li>Bullet_SantasDoubleBarrel_Cluster</li>
+				<li>Gun_ChristmasAKSpiner</li>
+				<li>Bullet_ChristmasSpiner</li>
+				<li>Mote_ArchoTech</li>
+				<li>Mech_ArchotechMilitor</li>
+				<li>Mech_BochiMilitor</li>
+				<li>Mech_ChickenCrusaderMilitor</li>
+				<li>Mech_EasterBunnyMilitor</li>
+				<li>Mech_GuraMilitor</li>
+				<li>Mech_JorisMilitor</li>
+				<li>Mech_KnightMilitor</li>
+				<li>Mech_PMCSantaMilitor</li>
+				<li>Mech_ChristmasUrchin</li>
+				<li>Mech_MiniShark</li>
+				<li>Mech_MiniChicken</li>
+				<li>Arhotech_Pills</li>
+				<li>EasterEggProj</li>
+				<li>ChocoBunny</li>
+				<li>HolyBladeProj</li>
+				<li>HolyBlade_Ethereal</li>
+				<li>Mote_HolyFire</li>
+				<li>HolyBlade</li>
+				<li>Mote_BlueSparksSimple</li>
+				<li>ChristmasTree_Ethereal</li>
+				<li>Turret_DualBarreledChristmasTurret</li>
+				<li>Gun_DualBarrelledTurret</li>
+				<li>Bullet_DualBarrelledTurret</li>
+				<li>JollyProj</li>
+				<li>PresentMine</li>
 				<li>EL_WhisperpearlRing</li>
 				<li>EL_AurogoldRing</li>
 				<li>EL_GorestoneRing</li>
@@ -5550,6 +5644,26 @@
 				<li>FloodLightWithSolarPanelRightSmool</li>
 				<li>FloodLightWithSolarPanelLeftSmool</li>
 				<li>CM_Cauldron</li>
+				<li>Outland_AcidBlood</li>
+				<li>Outland_Filth_BloodRed</li>
+				<li>Outland_Filth_BloodBlack</li>
+				<li>Outland_Filth_BloodGray</li>
+				<li>Outland_Filth_BloodOrange</li>
+				<li>Outland_Filth_BloodLightBlue</li>
+				<li>Outland_Filth_BloodCyan</li>
+				<li>Outland_Filth_BloodBlue</li>
+				<li>Outland_Filth_BloodLime</li>
+				<li>Outland_Filth_BloodGreen</li>
+				<li>Outland_Filth_BloodYellow</li>
+				<li>Outland_Filth_BloodPink</li>
+				<li>Outland_Filth_BloodMagenta</li>
+				<li>Outland_Filth_BloodPurple</li>
+				<li>Outland_Filth_BloodBrown</li>
+				<li>Outland_Filth_BloodWhite</li>
+				<li>Outland_HumanoidEgg</li>
+				<li>Forgotten_ElderBrainPool</li>
+				<li>Forgotten_IllithidTadpole</li>
+				<li>Forgotten_ElderBrain</li>
 				<li>GBE_GeneBankLarge</li>
 				<li>GBE_GeneBankHuge</li>
 				<li>GET_GeneExtractor_II</li>
@@ -7436,6 +7550,9 @@
 				<li>VFEA_LaserEyeBeam</li>
 				<li>VFEA_AcidSpit</li>
 				<li>VFEA_Fireball</li>
+				<li>WPGTHydroelectricPowerStation</li>
+				<li>WPGTSmollWaterGenerator</li>
+				<li>WPGTUnderDeepWaterPowerConduit</li>
 				<li>DirtRecent</li>
 				<li>StoneRecent</li>
 				<li>AsphaltRecent</li>
@@ -7445,6 +7562,10 @@
 				<li>RotR_AISR2GNew</li>
 				<li>RotR_ISR2G</li>
 				<li>RotR_AISR2G</li>
+				<li>scar_TilledSoil</li>
+				<li>scar_EnrichedSoil</li>
+				<li>scar_EnhancedSoil</li>
+				<li>scar_Compost</li>
 				<li>ClutterHandsSettings_VanillaFactionsExpandedMechanoids</li>
 				<li>ClutterHandsSettings_Megafauna</li>
 				<li>ClutterHandsSettings_VanillaBrewingExpanded</li>
@@ -7479,6 +7600,146 @@
 				<li>Tile_DwarvenLimestone</li>
 				<li>Tile_DwarvenSlate</li>
 				<li>Tile_DwarvenMarble</li>
+				<li>DRK_SpecialAgent</li>
+				<li>DRKApparelT51bPowerArmor</li>
+				<li>DRKApparelArmyT51bPowerArmor</li>
+				<li>DRKApparelCombatArmorMkI</li>
+				<li>DRKApparelLeatherArmor</li>
+				<li>DRKApparelMetalArmor</li>
+				<li>DRKApparelMetalArmorP</li>
+				<li>DRKApparelCombatArmorMkII</li>
+				<li>DRKApparelReconArmor</li>
+				<li>DRKApparelScribeRobe</li>
+				<li>DRKApparelElderArmor</li>
+				<li>DRKApparelMidwesternArmor</li>
+				<li>DRKApparelST50PowerArmor</li>
+				<li>DRKApparelVigilantPowerArmor</li>
+				<li>DRKApparelBOSST50PowerArmor</li>
+				<li>DRKApparelT60PowerArmor</li>
+				<li>DRKApparelBOSST432Armor</li>
+				<li>DRKBoSuniform</li>
+				<li>DRKBoScape</li>
+				<li>DRKApparelT51bHelmet</li>
+				<li>DRKApparelTribalT51bHelmet</li>
+				<li>DRKApparelCombatArmorHelmetMKI</li>
+				<li>DRKApparelCombatArmorHelmetMKII</li>
+				<li>DRKApparelReconHelmet</li>
+				<li>DRKApparelScribeHood</li>
+				<li>DRKApparelElderHelmet</li>
+				<li>DRKApparelMidwesternHelmet</li>
+				<li>DRKApparelST50Helmet</li>
+				<li>DRKApparelVigilantHelmet</li>
+				<li>DRKApparelT60Helmet</li>
+				<li>DRKApparelST432Helmet</li>
+				<li>DRKApparelEncUniform</li>
+				<li>DRKApparelEncOfDuster</li>
+				<li>DRKApparel_EncFlakVest</li>
+				<li>DRKApparelEncPA</li>
+				<li>DRKApparelEncTesla</li>
+				<li>DRKApparelAPA</li>
+				<li>DRKApparelAPAMkII</li>
+				<li>DRKApparelXT60a</li>
+				<li>DRKApparelEncCap</li>
+				<li>DRKApparelEncCapOf</li>
+				<li>DRKApparelEncFiltrationHelm</li>
+				<li>DRKApparelEncPA_Helm</li>
+				<li>DRKApparelEncTeslaHelm</li>
+				<li>DRKApparelAPA_Helm</li>
+				<li>DRKApparelAPA_HelmMkII</li>
+				<li>DRKApparelxt60_Helm</li>
+				<li>BoS_Mainframe</li>
+				<li>Enc_Mainframe</li>
+				<li>DRKEncKey</li>
+				<li>RestrictedSign</li>
+				<li>PropagandaSign</li>
+				<li>BoSsusflag</li>
+				<li>BoSsusflagus</li>
+				<li>BoSbp1b</li>
+				<li>BoSbp2a</li>
+				<li>BoSbp3s</li>
+				<li>encposter1a</li>
+				<li>encposter2a</li>
+				<li>BoSBanner</li>
+				<li>encBanner</li>
+				<li>encBannerB</li>
+				<li>usaflagpoleB</li>
+				<li>BoSDecal</li>
+				<li>encDecal</li>
+				<li>encRelief</li>
+				<li>dodDecal</li>
+				<li>potusDecal</li>
+				<li>BoS_panel</li>
+				<li>Enc_SatCom</li>
+				<li>DRKMelee_WarBanner</li>
+				<li>DRKMelee_Powerfist</li>
+				<li>DRKMelee_SuperSledge</li>
+				<li>DRKGun_deagle</li>
+				<li>Bullet_deagle</li>
+				<li>DRKGun_10mmColt</li>
+				<li>DRKGun_9mmMauser</li>
+				<li>DRKGun_HKSMG</li>
+				<li>Bullet_14mm</li>
+				<li>DRKGun_14mmpistol</li>
+				<li>Bullet_223c</li>
+				<li>DRKGun_223pistol</li>
+				<li>DRKGun_223rifle</li>
+				<li>DRKGun_CityKiller</li>
+				<li>DRKGun_Jackhammer</li>
+				<li>Bullet_G11E</li>
+				<li>DRKGun_HKG11E</li>
+				<li>DRKGun_Rangemaster</li>
+				<li>DRKGun_AK112AR</li>
+				<li>DRKGun_DKS</li>
+				<li>DRKGun_Bozar</li>
+				<li>bozarbullet</li>
+				<li>DRKGun_chunkyboi</li>
+				<li>DRKGun_M2HMG</li>
+				<li>Bullet_M2HMG</li>
+				<li>DRKGun_Vindicator</li>
+				<li>Bullet_Minigun</li>
+				<li>DRKGun_BigBazooka</li>
+				<li>bazookarocket</li>
+				<li>DRKGun_Autocannon</li>
+				<li>Bullet_Autocannon</li>
+				<li>DRKGun_Fatman</li>
+				<li>Bullet_Fatman</li>
+				<li>DRKGun_HHG</li>
+				<li>Proj_hhg</li>
+				<li>DRKGun_Avenger</li>
+				<li>DRKGun_Plasmasmg</li>
+				<li>DRKGun_SemelePlasmaRifle</li>
+				<li>DRKGun_AdvancedMultiplasRifle</li>
+				<li>multiplasprojectile</li>
+				<li>DRKGun_AssaultPlasmaRifle</li>
+				<li>heavyplasmaprojectile</li>
+				<li>DRKGun_PlasmaCannon</li>
+				<li>DRKGun_EndBossPlasmaCannon</li>
+				<li>DRK_EndBossMelee</li>
+				<li>DRKGun_Wattzpistol</li>
+				<li>DRKGun_Glockpistol</li>
+				<li>plasmaprojectilesmall</li>
+				<li>DRKGun_PlasmaCaster</li>
+				<li>plasmaprojectile</li>
+				<li>DRKGun_Wattz1800c</li>
+				<li>DRKGun_Wattz2000lr</li>
+				<li>DRKGun_LaserGatling</li>
+				<li>laserprojectile</li>
+				<li>DRKGun_YK42PulseRifle</li>
+				<li>yk42projectile</li>
+				<li>DRKGun_YK32PulsePistol</li>
+				<li>yk32projectile</li>
+				<li>Bullet_flambe</li>
+				<li>DRKGun_Flambe</li>
+				<li>DRKGun_P94t</li>
+				<li>DRKGun_M72Gauss</li>
+				<li>m72projectile</li>
+				<li>DRKGun_PPK12Gauss</li>
+				<li>DRKGun_GaussMinigun</li>
+				<li>DRKGun_M94t</li>
+				<li>DRKGun_PlasmaMG</li>
+				<li>DRKGun_M72GaussA</li>
+				<li>DRKGun_YCS</li>
+				<li>ycs186projectile</li>
 				<li>LTS_MoteSparkleBlue</li>
 				<li>LTS_MoteSparkleYellow</li>
 				<li>LTS_MoteSparkleRed</li>
@@ -7651,6 +7912,9 @@
 				<li>ArchotechDroneColumn</li>
 				<li>ComponentArchoDrone</li>
 				<li>ClaymoreExplosion</li>
+				<li>VED_TechprintCompiler</li>
+				<li>VED_AncientDatabase</li>
+				<li>VED_AncientTechprint</li>
 				<li>BMT_BlindTetra</li>
 				<li>BMT_DevilsPupfish</li>
 				<li>BMT_GhostShrimp</li>
@@ -8050,19 +8314,6 @@
 				<li>QRY_MediQuarry</li>
 				<li>QRY_MiniQuarry</li>
 				<li>QRY_Platform</li>
-				<li>VFET_FloorPainting</li>
-				<li>VFET_SittingSpot</li>
-				<li>VFET_ResearchSpot</li>
-				<li>VFET_AnimalTrap</li>
-				<li>VFET_LargeFire</li>
-				<li>VFET_Apparel_TribalLight</li>
-				<li>VFET_Apparel_TribalHeavy</li>
-				<li>VFET_Apparel_TribalWar</li>
-				<li>VFET_LargeFireSpark</li>
-				<li>VFET_Chunk</li>
-				<li>VFET_Stake</li>
-				<li>VFET_Throwspikes</li>
-				<li>VFET_ThrowspikesThrown</li>
 				<li>VG_DandelionTea</li>
 				<li>VG_antibiotics</li>
 				<li>Deworm</li>
@@ -8083,6 +8334,47 @@
 				<li>PlantTobacco</li>
 				<li>PlantDandelionPatch</li>
 				<li>VG_PlantAmbrosia</li>
+				<li>VVE_ClassicCarWreck</li>
+				<li>VVE_SupercarWreck</li>
+				<li>VVE_BattleTankWreck</li>
+				<li>VVE_LightArmoredVehicleWreck</li>
+				<li>VVE_OffroadJeepWreck</li>
+				<li>VVE_HelicopterWreck</li>
+				<li>VVE_TruckWreck</li>
+				<li>VVE_ArtilleryWreck</li>
+				<li>VVE_CargoHelicopterWreck</li>
+				<li>VVE_RefrigeratedTruckWreck</li>
+				<li>VVE_InfantryFightingVehicleWreck</li>
+				<li>VVE_RocketArtilleryWreck</li>
+				<li>VVE_SiegePodWreck</li>
+				<li>VVE_Badger_Blueprint</li>
+				<li>Bullet_Badger_MainTurret</li>
+				<li>VVE_Badger</li>
+				<li>VVE_BigRig_Blueprint</li>
+				<li>VVE_BigRig</li>
+				<li>VVE_Burya_Blueprint</li>
+				<li>VVE_Burya</li>
+				<li>VVE_Cherokee_Blueprint</li>
+				<li>VVE_Cherokee</li>
+				<li>VVE_Goliath_Blueprint</li>
+				<li>VVE_Goliath</li>
+				<li>VVE_Hermano_Blueprint</li>
+				<li>VVE_Hermano</li>
+				<li>VVE_Lightning_Blueprint</li>
+				<li>VVE_Lightning</li>
+				<li>VVE_Louie_Blueprint</li>
+				<li>VVE_Louie</li>
+				<li>VVE_Marshal_Blueprint</li>
+				<li>Bullet_Marshal_MainTurret</li>
+				<li>VVE_Marshal</li>
+				<li>VVE_Nomad_Blueprint</li>
+				<li>VVE_Nomad</li>
+				<li>VVE_Paladin_Blueprint</li>
+				<li>VVE_Paladin</li>
+				<li>VVE_Springbok_Blueprint</li>
+				<li>VVE_Springbok</li>
+				<li>VVE_Udar_Blueprint</li>
+				<li>VVE_Udar</li>
 				<li>VAEWaste_EggToxiguanaFertilized</li>
 				<li>VAEWaste_EggHydraFertilized</li>
 				<li>VAEWaste_ToxicMeat</li>
@@ -8778,47 +9070,6 @@
 				<li>VRE_SaplingchildTree</li>
 				<li>VRE_SapBlood</li>
 				<li>VRE_PoluxBush</li>
-				<li>VVE_ClassicCarWreck</li>
-				<li>VVE_SupercarWreck</li>
-				<li>VVE_BattleTankWreck</li>
-				<li>VVE_LightArmoredVehicleWreck</li>
-				<li>VVE_OffroadJeepWreck</li>
-				<li>VVE_HelicopterWreck</li>
-				<li>VVE_TruckWreck</li>
-				<li>VVE_ArtilleryWreck</li>
-				<li>VVE_CargoHelicopterWreck</li>
-				<li>VVE_RefrigeratedTruckWreck</li>
-				<li>VVE_InfantryFightingVehicleWreck</li>
-				<li>VVE_RocketArtilleryWreck</li>
-				<li>VVE_SiegePodWreck</li>
-				<li>VVE_Badger_Blueprint</li>
-				<li>Bullet_Badger_MainTurret</li>
-				<li>VVE_Badger</li>
-				<li>VVE_BigRig_Blueprint</li>
-				<li>VVE_BigRig</li>
-				<li>VVE_Burya_Blueprint</li>
-				<li>VVE_Burya</li>
-				<li>VVE_Cherokee_Blueprint</li>
-				<li>VVE_Cherokee</li>
-				<li>VVE_Goliath_Blueprint</li>
-				<li>VVE_Goliath</li>
-				<li>VVE_Hermano_Blueprint</li>
-				<li>VVE_Hermano</li>
-				<li>VVE_Lightning_Blueprint</li>
-				<li>VVE_Lightning</li>
-				<li>VVE_Louie_Blueprint</li>
-				<li>VVE_Louie</li>
-				<li>VVE_Marshal_Blueprint</li>
-				<li>Bullet_Marshal_MainTurret</li>
-				<li>VVE_Marshal</li>
-				<li>VVE_Nomad_Blueprint</li>
-				<li>VVE_Nomad</li>
-				<li>VVE_Paladin_Blueprint</li>
-				<li>VVE_Paladin</li>
-				<li>VVE_Springbok_Blueprint</li>
-				<li>VVE_Springbok</li>
-				<li>VVE_Udar_Blueprint</li>
-				<li>VVE_Udar</li>
 				<li>VWE_Apparel_GrenadeFragBelt</li>
 				<li>VWE_Apparel_GrenadeMolotovBelt</li>
 				<li>VWE_Apparel_GrenadeEMPBelt</li>
@@ -9731,7 +9982,6 @@
 				<li>2020</li>
 				<li>2030</li>
 				<li>2040</li>
-				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
@@ -13409,6 +13659,82 @@
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
+				<li>2400</li>
+				<li>2001</li>
+				<li>30</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
@@ -13969,43 +14295,6 @@
 				<li>2999</li>
 				<li>2999</li>
 				<li>2051</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
@@ -14520,6 +14809,51 @@
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>40</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
 				<li>2300</li>
 				<li>2999</li>
 				<li>2999</li>
@@ -14883,6 +15217,26 @@
 				<li>2992</li>
 				<li>2992</li>
 				<li>2992</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
 				<li>2999</li>
 				<li>2155</li>
 				<li>2160</li>
@@ -16770,6 +17124,13 @@
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
+				<li>2500</li>
+				<li>1800</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
@@ -16806,6 +17167,146 @@
 				<li>2999</li>
 				<li>2999</li>
 				<li>2000</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
@@ -16983,6 +17484,9 @@
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2620</li>
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
@@ -17385,9 +17889,37 @@
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
-				<li>2400</li>
-				<li>2001</li>
-				<li>30</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
+				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
@@ -18034,47 +18566,6 @@
 				<li>2999</li>
 				<li>2999</li>
 				<li>2490</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
-				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>
 				<li>2999</li>

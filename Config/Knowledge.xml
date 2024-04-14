@@ -123,11 +123,11 @@
     </li>
     <li>
       <key>Alerts</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mining</key>
-      <value>0.6866968</value>
+      <value>0.7850499</value>
     </li>
     <li>
       <key>WorkTab</key>
@@ -135,7 +135,7 @@
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0</value>
+      <value>0.7285186</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
@@ -159,7 +159,7 @@
     </li>
     <li>
       <key>StorageTab</key>
-      <value>0.5614104</value>
+      <value>1</value>
     </li>
     <li>
       <key>HomeArea</key>
@@ -375,6 +375,14 @@
     </li>
     <li>
       <key>BMT_HungeringAnimalsConcept</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>DW_Penalties</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>DW_Settings</key>
       <value>0</value>
     </li>
   </knowledge>

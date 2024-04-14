@@ -26,6 +26,7 @@
 			<col>RGBA(1.000, 0.000, 0.000, 1.000)</col>
 		</Hostiles>
 		<StaticRectPos>(2255.0, 246.0)</StaticRectPos>
+		<MinimapOpen>False</MinimapOpen>
 		<ShowCorpses>True</ShowCorpses>
 		<multi21>200</multi21>
 	</ModSettings>

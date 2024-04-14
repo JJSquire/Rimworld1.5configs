@@ -1,0 +1,3 @@
+IsOngoingCustomGame=False
+score=0
+IsNewCustomGame=False

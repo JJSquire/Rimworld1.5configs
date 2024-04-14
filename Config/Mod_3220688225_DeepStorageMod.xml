@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="LWM.DeepStorage.Settings">
+		<storing_global_scale>0.1007371</storing_global_scale>
+		<int_to_use_DS>Animal</int_to_use_DS>
+		<useRightClickLogic>False</useRightClickLogic>
+	</ModSettings>
+</SettingsBlock>

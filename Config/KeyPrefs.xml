@@ -668,7 +668,7 @@
   <li>
     <key>MintMenus_MiniMap</key>
     <value>
-      <keyBindingA>None</keyBindingA>
+      <keyBindingA>M</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
