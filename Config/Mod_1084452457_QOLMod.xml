@@ -7,7 +7,6 @@
 				<isConfigured>accumulateSkillDecayIntervals;f;SkillDecayLevelOffset;f;StopSkillDecay;t;StopSkillDown;t;StopTamenessDecay;f;dailyXpLimit;f;FallRatePerPsyfocusBand0;f;FallRatePerPsyfocusBand1;f;FallRatePerPsyfocusBand2;f;PreventAnimalFamilies;f;AllowNamedAnimalFamilies;f;UseFixedNumericTextfields;f;CuMBaseCost;f;CumCostIdeo;f;CumCostPassionMinor;f;CumCostPassionMajor;f;UseSyrchalistTraitvalue;f;CuMTax;f;CuMInflationCurve;t;CuMConversionPawn;f;CuMConversionRemnants;f;RemnantsOrderPriceFactor;f;StarvingThreshold;f;DisplayFoundCityGizmo;f;TooltipMaxWidth;f;GrowLists;f;AlwaysDisplayLabelInMBDD;f;DateStyle;f;ColonistPF;f;ColonistPFConf;f;AnimalTamePF;f;AnimalTamePFConf;f;AnimalWildPF;f;AnimalWildPFConf;f;OtherPF;f;OtherPFConf;f;PFRestrictionExcemption;f;HiddenAlerts;f;HiddenLetters;f;hiddenMessages;f;ForbiddenPatches;f;AvoidDesignatorRefresh;f;ReapplyOnGameLoad;f;StopRoofCollapse;f;Slavery;f;PawnValueExpectationsMV0;f;PawnValueExpectationsMV1;f;PawnValueExpectationsMV2;f;PawnValueExpectationsMV3;f;PawnValueExpectationsMV4;f;PawnValueExpectationsMV5;f;ProgressPerParticipantCurve;f;DefCopies;t;CompCopies;t;</isConfigured>
 				<baseObjectKey>singleton</baseObjectKey>
 				<baseObjectReferenceKey>-1</baseObjectReferenceKey>
-				<StopSkillDecay>True</StopSkillDecay>
 				<StopSkillDown>True</StopSkillDown>
 				<CuMInflationCurve />
 				<DefCopies />

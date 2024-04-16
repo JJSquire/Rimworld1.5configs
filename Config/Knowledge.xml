@@ -15,7 +15,7 @@
     </li>
     <li>
       <key>Capturing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShieldBelts</key>
@@ -23,7 +23,7 @@
     </li>
     <li>
       <key>InteractingWithTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Drafting</key>
@@ -39,7 +39,7 @@
     </li>
     <li>
       <key>AnimalsDontAttackDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BillsTab</key>
@@ -51,7 +51,7 @@
     </li>
     <li>
       <key>DrugAddiction</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DrugPolicies</key>
@@ -63,7 +63,7 @@
     </li>
     <li>
       <key>PrisonerTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
@@ -71,7 +71,7 @@
     </li>
     <li>
       <key>DrugBurning</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DoorOpenSpeed</key>
@@ -79,11 +79,11 @@
     </li>
     <li>
       <key>QueueOrders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Shelves</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Books</key>
@@ -127,7 +127,7 @@
     </li>
     <li>
       <key>Mining</key>
-      <value>0.7850499</value>
+      <value>1</value>
     </li>
     <li>
       <key>WorkTab</key>
@@ -135,7 +135,7 @@
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0.7285186</value>
+      <value>0.5047112</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
@@ -155,7 +155,7 @@
     </li>
     <li>
       <key>InfoCard</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>StorageTab</key>
@@ -199,7 +199,7 @@
     </li>
     <li>
       <key>TileInspector</key>
-      <value>0</value>
+      <value>0.4661939</value>
     </li>
     <li>
       <key>Outfits</key>
@@ -287,7 +287,7 @@
     </li>
     <li>
       <key>GenesAndXenotypes</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mechanitors</key>
@@ -299,7 +299,7 @@
     </li>
     <li>
       <key>CapturingEntities</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ContainingEntities</key>
@@ -335,7 +335,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsBasic</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SidearmsDropping</key>

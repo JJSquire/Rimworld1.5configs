@@ -340,6 +340,22 @@
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFTweaksBuyablePsylinkMax</li>
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFGunlinksGiveMortarAccuracy</li>
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFFilthVWRATRevenant</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFMoreFiltersOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFUnlockHediffsForScenario</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFMoreFiltersDrugs</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFMoreFiltersFood</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFNoStartingResearchResearchEx</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFScenarioHediffTraitorMinTicks</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFScenarioHediffTraitorMaxTicks</li>
+				<li>humanPregnancyDuration;days</li>
+				<li>humanPregnancyDuration;lactatingInDays</li>
+				<li>humanPregnancyDuration;daysToHatch</li>
+				<li>humanPregnancyDuration;eggFatigueInDays</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFGrenadeBeltLayering</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFMeditationFreedomOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFMeditationFreedomBackstoryReq</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFMeditationFreedomFocusStr</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFMeditationFreedomAnimaTreeStr</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -679,6 +695,22 @@
 				<li>2</li>
 				<li>false</li>
 				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>120000</li>
+				<li>360000</li>
+				<li>12</li>
+				<li>10</li>
+				<li>12</li>
+				<li>18</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>0.40</li>
+				<li>0.28</li>
 			</values>
 		</dataDict>
 		<PinnedMods />

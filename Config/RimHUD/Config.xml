@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Config Version="1.15.1">
+<Config Version="1.15.2">
   <General>
     <RefreshRate>5</RefreshRate>
     <DockedMode>True</DockedMode>
