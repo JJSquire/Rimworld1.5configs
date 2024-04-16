@@ -43,7 +43,7 @@
     </li>
     <li>
       <key>BillsTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>OpeningComms</key>
@@ -135,7 +135,7 @@
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0.5047112</value>
+      <value>0.04810256</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
@@ -199,7 +199,7 @@
     </li>
     <li>
       <key>TileInspector</key>
-      <value>0.4661939</value>
+      <value>1</value>
     </li>
     <li>
       <key>Outfits</key>
@@ -215,7 +215,7 @@
     </li>
     <li>
       <key>ClickingMessages</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShotAccuracyTooltip</key>

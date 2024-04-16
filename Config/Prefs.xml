@@ -28,7 +28,7 @@
   <adaptiveTrainingEnabled>True</adaptiveTrainingEnabled>
   <steamDeckKeyboardMode>False</steamDeckKeyboardMode>
   <preferredNames />
-  <resourceReadoutCategorized>False</resourceReadoutCategorized>
+  <resourceReadoutCategorized>True</resourceReadoutCategorized>
   <runInBackground>False</runInBackground>
   <edgeScreenScroll>True</edgeScreenScroll>
   <zoomToMouse>False</zoomToMouse>

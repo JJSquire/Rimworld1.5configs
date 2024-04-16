@@ -90,7 +90,6 @@
         <li>m00nl1ght.geologicallandforms.biometransitions</li>
         <li>biomesteam.biomesfossils</li>
         <li>pathfinding.framework</li>
-        <li>odeum.wmbp</li>
         <li>biomesteam.biomescore</li>
         <li>biomesteam.oasis</li>
         <li>automatic.bionicicons</li>
@@ -149,7 +148,6 @@
         <li>overpl.animalsarcophagus</li>
         <li>van.dacrypts</li>
         <li>ferny.culturecategory</li>
-        <li>nmkj.customfonts</li>
         <li>mlie.customprisonerinteractions</li>
         <li>taggerung.customuiscales</li>
         <li>balistafreak.standalonehotspring</li>
@@ -283,10 +281,6 @@
         <li>jaxe.rimhud</li>
         <li>vanillaexpanded.skills</li>
         <li>cedaro.madskillsplus</li>
-        <li>dismarzero.vgp.vgpvegetablegarden</li>
-        <li>vanillaexpanded.vieat</li>
-        <li>majestic.framework</li>
-        <li>majestic.cmt.pack</li>
         <li>aranmaho.makai.psycast</li>
         <li>zylle.mapdesigner</li>
         <li>m00nl1ght.mappreview</li>
@@ -483,6 +477,7 @@
         <li>ogliss.thewhitecrayon.quarry</li>
         <li>zal.vfetmodpatches</li>
         <li>demmegy.fecalsludgepatch</li>
+        <li>dismarzero.vgp.vgpvegetablegarden</li>
         <li>dismarzero.vgp.vgpgardenmedicine</li>
         <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
         <li>stagz.vsierationaltraitdevelopment</li>
@@ -504,6 +499,7 @@
         <li>redmattis.vanillagenesrebalanced</li>
         <li>vanillaexpanded.vhe</li>
         <li>neronix17.retexture.vanillahair</li>
+        <li>vanillaexpanded.vieat</li>
         <li>vanillaexpanded.viehar</li>
         <li>vanillaexpanded.ideo.iconsandsymbols</li>
         <li>vanillaexpanded.ideo.relicsandartifacts</li>
@@ -548,7 +544,6 @@
         <li>neronix17.retexture.wonhairmen</li>
         <li>won2.hair</li>
         <li>neronix17.retexture.wonhairwomen</li>
-        <li>laast.worldmapenhanced</li>
         <li>automatic.gunplay</li>
         <li>com.yayo.yayoani.continued</li>
         <li>mlie.yayoscaravan</li>

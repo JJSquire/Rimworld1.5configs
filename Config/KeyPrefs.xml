@@ -708,13 +708,6 @@
     </value>
   </li>
   <li>
-    <key>ToggleseeThroughTrees</key>
-    <value>
-      <keyBindingA>Equals</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>PerformanceOptimizerKey</key>
     <value>
       <keyBindingA>LeftControl</keyBindingA>
@@ -872,6 +865,13 @@
     <key>HotkeyTeleport</key>
     <value>
       <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ToggleseeThroughTrees</key>
+    <value>
+      <keyBindingA>Equals</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
