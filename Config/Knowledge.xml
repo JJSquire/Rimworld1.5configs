@@ -111,7 +111,7 @@
     </li>
     <li>
       <key>Forbidding</key>
-      <value>0</value>
+      <value>0.1516977</value>
     </li>
     <li>
       <key>GrowingFood</key>
@@ -135,7 +135,7 @@
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0.04810256</value>
+      <value>0</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
@@ -383,6 +383,30 @@
     </li>
     <li>
       <key>DW_Settings</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_Bees</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_Combs</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_BeeHouse</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_BroodChamber</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_Hybridization</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_Research</key>
       <value>0</value>
     </li>
   </knowledge>

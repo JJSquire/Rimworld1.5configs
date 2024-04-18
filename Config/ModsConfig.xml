@@ -45,13 +45,13 @@
         <li>animalfilthdontcare.1trickponyta</li>
         <li>mlie.animalgenetics</li>
         <li>yamazaki.animalhoods</li>
+        <li>godlyannihilator.animalmedicalbed</li>
         <li>fluffy.animaltab</li>
         <li>mlie.animalharvestingspot</li>
         <li>oblitus.animalslogic</li>
         <li>inglix.appareltaintedoncorpserot</li>
         <li>mlie.aquarium</li>
         <li>fluffy.areaunlocker</li>
-        <li>patchuragi.arknights.musicp</li>
         <li>khamenman.armorracks</li>
         <li>ferny.artaccurategenebank</li>
         <li>mlie.morefactioninteraction</li>
@@ -63,6 +63,7 @@
         <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
         <li>mlie.askbeforeenter</li>
         <li>automatic.autolinks</li>
+        <li>tr.autocutblight</li>
         <li>nibato.autoextractgenes</li>
         <li>ben.automaticnightowl</li>
         <li>lomzie.automaticsubcorescanning</li>
@@ -79,6 +80,7 @@
         <li>redmattis.betterchildren</li>
         <li>redmattis.bettergeneinheritance</li>
         <li>madeline.modmismatchformatter</li>
+        <li>voult.betterpawncontrolcontinued</li>
         <li>tpabobap.bettervpeskipdoorpathing</li>
         <li>vanillaexpanded.vpe.puppeteer</li>
         <li>dev.tobot.vpe.betterautocast</li>
@@ -117,6 +119,7 @@
         <li>syrus.caravanmoodbuff</li>
         <li>mlie.catshuntforfun</li>
         <li>moistestwhale.ceilingtradebeacon</li>
+        <li>kapitanoczywisty.changemapedge</li>
         <li>void.charactereditor</li>
         <li>zylle.childboodbackstories</li>
         <li>kb.chillout</li>
@@ -204,6 +207,7 @@
         <li>ferny.easycaravanformation</li>
         <li>xandrmoro.rim.finishit</li>
         <li>titaniusrex.floodlightwithsolargenerator</li>
+        <li>tials.floordrawings</li>
         <li>hawkwood.floorsarealmostworthless</li>
         <li>mlie.foodpoisoningstackfix</li>
         <li>argon.cauldronmod</li>
@@ -257,7 +261,8 @@
         <li>zaf.injectgene</li>
         <li>haecriver.injuredcarry</li>
         <li>ferny.integratedalphapsycasts</li>
-        <li>jaxe.bubbles</li>
+        <li>lts.i</li>
+        <li>sarg.rimbees</li>
         <li>vanillaexpanded.vplantsemore</li>
         <li>vanillaexpanded.vplantsesucculents</li>
         <li>biomesteam.biomesprehistoric</li>
@@ -265,6 +270,7 @@
         <li>vanillaexpanded.vchemfuele</li>
         <li>vanillaexpanded.vgeneticse</li>
         <li>ferny.xenooranimalgenetics</li>
+        <li>zylle.gemstones</li>
         <li>kikohi.jewelry</li>
         <li>mlie.justputitoverthere</li>
         <li>tiagocc0.justfloortiles</li>
@@ -280,7 +286,7 @@
         <li>petetimessix.researchreinvented</li>
         <li>jaxe.rimhud</li>
         <li>vanillaexpanded.skills</li>
-        <li>cedaro.madskillsplus</li>
+        <li>ratys.madskills</li>
         <li>aranmaho.makai.psycast</li>
         <li>zylle.mapdesigner</li>
         <li>m00nl1ght.mappreview</li>
@@ -329,6 +335,7 @@
         <li>loregret.veextra.nonlethal</li>
         <li>vesper.notmyfault</li>
         <li>overheadmeal.patch</li>
+        <li>mehni.numbers</li>
         <li>ogre.ogrestack</li>
         <li>sarg.magicalmenagerie</li>
         <li>vanillaexpanded.vanillaanimalsexpanded</li>
@@ -337,11 +344,13 @@
         <li>seohyeon.optimizationmeats</li>
         <li>vissov.floortile</li>
         <li>oracle.skills.retexture</li>
+        <li>orbital.books</li>
         <li>murmur.oocmovespeedboost</li>
         <li>peppsen.pmusic</li>
         <li>andromeda.packablecontainers</li>
         <li>mosi.bridgecolor2</li>
         <li>tied.parkaretex</li>
+        <li>98owls.partyhard.0</li>
         <li>pat.moveablemonoliths</li>
         <li>murmur.pawnnamevariety</li>
         <li>fed1splay.pawntargetfix</li>
@@ -388,6 +397,8 @@
         <li>rupal.rimpymodmanagerdatabase</li>
         <li>mlie.rimquest</li>
         <li>arandomkiwi.rimsaves</li>
+        <li>sierra.rt.generaltraits</li>
+        <li>sierra.rt.vanillatraitcolors</li>
         <li>com.bymarcin.architecticons</li>
         <li>proxyer.optionalicons4ai</li>
         <li>mlie.tabsorting</li>
@@ -395,6 +406,8 @@
         <li>dubwise.rimefeller</li>
         <li>kahirdragoon.rimefellercompatpatch</li>
         <li>nomadrw.retextureandrestylerimefeller</li>
+        <li>oskarpotocki.vfe.deserters</li>
+        <li>zal.spaceports</li>
         <li>co.uk.epicguru.factionloadout</li>
         <li>titaniusrex.riverenergy</li>
         <li>mlie.roadsoftherim</li>
@@ -425,8 +438,11 @@
         <li>denev.smartturretcovering</li>
         <li>dhultgren.smarterconstruction</li>
         <li>mlie.smartervisitors</li>
+        <li>nimrag.fanficsmutwhydidimakethis</li>
         <li>mlie.somelikeitrotten</li>
         <li>marvinkosh.sometimesraidsgowrong</li>
+        <li>jaxe.bubbles</li>
+        <li>jpt.speakup</li>
         <li>bitches.be.cray</li>
         <li>linkolas.stabilize</li>
         <li>andromeda.stackgap</li>
@@ -441,6 +457,7 @@
         <li>ricky.boscompendium</li>
         <li>icc.tov.tbc</li>
         <li>ghxx.techadvancing</li>
+        <li>shenanigans.techtattoos</li>
         <li>theeverythingpacklegoboi.ideo.iconsandsymbols</li>
         <li>limetreesnake.systems</li>
         <li>botchjob.profaned</li>
@@ -456,6 +473,7 @@
         <li>transhumanistmedicalspecialist.mp3</li>
         <li>ferny.transportcategory</li>
         <li>shenanigans.tribalbackstories1.4</li>
+        <li>shenanigans.tribaltattoos</li>
         <li>marvinkosh.ughyougotme</li>
         <li>uglytogether.leeh</li>
         <li>grimm.unlimited</li>
@@ -518,7 +536,6 @@
         <li>vanillaracesexpanded.lycanthrope</li>
         <li>vanillaracesexpanded.pigskin</li>
         <li>vse.perrypersistent</li>
-        <li>vanillastorytellersexpanded.winstonwaves</li>
         <li>vanillaexpanded.temperature</li>
         <li>vanillaexpanded.vtexvariations</li>
         <li>vanillaexpanded.vanillatradingexpanded</li>
@@ -539,6 +556,7 @@
         <li>marpatninja.wheelchairs</li>
         <li>mehni.pickupandhaul</li>
         <li>codeoptimist.jobsofopportunity</li>
+        <li>aranmaho.ravenouseye.wildhunter.psycast</li>
         <li>redmattis.betterconversion</li>
         <li>won.hair</li>
         <li>neronix17.retexture.wonhairmen</li>
@@ -548,6 +566,7 @@
         <li>com.yayo.yayoani.continued</li>
         <li>mlie.yayoscaravan</li>
         <li>gunseeker.lovelyhairstyle</li>
+        <li>savestoragesettings.kv.rw.fishtmp</li>
         <li>reel.facialanims</li>
         <li>vanillaexpanded.vtexe.facialanims</li>
         <li>nera.spawnthosegenes</li>
@@ -556,6 +575,7 @@
         <li>vanillaexpanded.vbrewe</li>
         <li>frozensnowfox.betterancientcomplexloot</li>
         <li>frozensnowfox.bettercamploot</li>
+        <li>frozensnowfox.betterspiketraps</li>
         <li>dubwise.dubspaintshop</li>
         <li>dubwise.rimatomics</li>
         <li>dubwise.dubsrimkit</li>
@@ -572,7 +592,6 @@
         <li>turnovus.submod.backpacksarenotbelts</li>
         <li>vanillaexpanded.varme</li>
         <li>vanillaexpanded.vee</li>
-        <li>oskarpotocki.vfe.deserters</li>
         <li>vanillaexpanded.ideo.dryads</li>
         <li>vanillaexpanded.vnutriente</li>
         <li>vanillaracesexpanded.archon</li>
@@ -601,6 +620,7 @@
         <li>sr.modrimworld.raidextensioncontinued</li>
         <li>telkir.tmods.morefloors</li>
         <li>wemd.realisticdarkness</li>
+        <li>xeonovadan.visiblepants</li>
         <li>krkr.rocketman</li>
     </activeMods>
     <knownExpansions>

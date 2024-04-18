@@ -855,6 +855,20 @@
     </value>
   </li>
   <li>
+    <key>BetterPawnControlEmergency</key>
+    <value>
+      <keyBindingA>5</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MainTab_kNumbersOverviewTab</key>
+    <value>
+      <keyBindingA>Z</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>
