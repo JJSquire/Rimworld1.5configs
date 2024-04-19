@@ -11,7 +11,7 @@
     </li>
     <li>
       <key>Rescuing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Capturing</key>
@@ -55,7 +55,7 @@
     </li>
     <li>
       <key>DrugPolicies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TVForSickPeople</key>
@@ -111,7 +111,7 @@
     </li>
     <li>
       <key>Forbidding</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GrowingFood</key>
@@ -135,7 +135,7 @@
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
@@ -323,7 +323,7 @@
     </li>
     <li>
       <key>ColonyGhouls</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>VoidProvocation</key>
@@ -411,7 +411,7 @@
     </li>
     <li>
       <key>RR_SteppingStones_Intro</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>WVC_MMWM_BehaviorsGuide</key>

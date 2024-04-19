@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4066 rev840</version>
+    <version>1.5.4069 rev95</version>
     <activeMods>
         <li>zetrith.prepatcher</li>
         <li>brrainz.harmony</li>
@@ -19,6 +19,7 @@
         <li>anthitei.athsretexturefemalapparel.retexture</li>
         <li>anthitei.athsstyleableframework.style</li>
         <li>anthitei.athsstylegothic.style</li>
+        <li>latta.fsharp.core</li>
         <li>neronix17.toolbox</li>
         <li>brrainz.achtung</li>
         <li>billnotic.actuallyvanillamusicexpansion</li>
@@ -185,7 +186,6 @@
         <li>pixelbirb.dwc</li>
         <li>slashandz.easyconversions</li>
         <li>blackmarket420.eccentricmilitors</li>
-        <li>ellit.archeology</li>
         <li>xrushha.animagear</li>
         <li>xrushha.eldersfaction</li>
         <li>cocaine.electricstonecuttingtable</li>
@@ -261,6 +261,7 @@
         <li>kathanon.impressionablechildren</li>
         <li>amch.improvedneedindicator</li>
         <li>mlie.incidentpersonstat</li>
+        <li>latta.infusion</li>
         <li>cedaro.initialmotivation</li>
         <li>zaf.injectgene</li>
         <li>haecriver.injuredcarry</li>
