@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="WVC_WorkModes.WVC_MMWM_Settings">
+		<firstModLaunch>False</firstModLaunch>
+		<WVC_FindAndDestroy>True</WVC_FindAndDestroy>
+		<WVC_WaitEnemy>True</WVC_WaitEnemy>
+		<WVC_WorkAndWaitEnemy>True</WVC_WorkAndWaitEnemy>
+		<WVC_DefendYourself>True</WVC_DefendYourself>
+		<WVC_Ambush>True</WVC_Ambush>
+		<WVC_WorkAndRecharge>True</WVC_WorkAndRecharge>
+		<WVC_SafeWorkAndRecharge>True</WVC_SafeWorkAndRecharge>
+		<WVC_EscaortAndRecharge>True</WVC_EscaortAndRecharge>
+		<WVC_WorkRechargeEscort>True</WVC_WorkRechargeEscort>
+		<WVC_EscortIfEnemyOnMap>True</WVC_EscortIfEnemyOnMap>
+		<WVC_EscortIfEnemyWorkAndRecharge>False</WVC_EscortIfEnemyWorkAndRecharge>
+		<WVC_EscortIfDraftedOrDowned>False</WVC_EscortIfDraftedOrDowned>
+		<WVC_HiveMindResearching>False</WVC_HiveMindResearching>
+		<WVC_Scavenging>False</WVC_Scavenging>
+		<WVC_Scavenging_ReqCells>120</WVC_Scavenging_ReqCells>
+		<enableShutdownSearching>True</enableShutdownSearching>
+		<enableEnemySearching>True</enableEnemySearching>
+		<enableSmartEscort>True</enableSmartEscort>
+		<useCustomShutdownBehavior>True</useCustomShutdownBehavior>
+		<dormantMode>False</dormantMode>
+	</ModSettings>
+</SettingsBlock>

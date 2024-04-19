@@ -111,7 +111,7 @@
     </li>
     <li>
       <key>Forbidding</key>
-      <value>0.1516977</value>
+      <value>0</value>
     </li>
     <li>
       <key>GrowingFood</key>
@@ -175,7 +175,7 @@
     </li>
     <li>
       <key>HostilityResponse</key>
-      <value>0</value>
+      <value>0.1966326</value>
     </li>
     <li>
       <key>AllowedAreas</key>
@@ -187,7 +187,7 @@
     </li>
     <li>
       <key>TimeAssignments</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ManualWorkPriorities</key>
@@ -407,6 +407,14 @@
     </li>
     <li>
       <key>BenLubarsRimBeesPatches_Research</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>RR_SteppingStones_Intro</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WVC_MMWM_BehaviorsGuide</key>
       <value>0</value>
     </li>
   </knowledge>

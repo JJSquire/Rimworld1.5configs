@@ -659,13 +659,6 @@
     </value>
   </li>
   <li>
-    <key>KeyBinding_DestroyItem</key>
-    <value>
-      <keyBindingA>X</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>MintMenus_MiniMap</key>
     <value>
       <keyBindingA>M</keyBindingA>
@@ -879,6 +872,13 @@
     <key>HotkeyTeleport</key>
     <value>
       <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>KeyBinding_DestroyItem</key>
+    <value>
+      <keyBindingA>X</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
