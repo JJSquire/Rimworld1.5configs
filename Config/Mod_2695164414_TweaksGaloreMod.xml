@@ -766,6 +766,25 @@
 				<li>Tweak_PowerAdj_VFEM_AquaponicsBasin</li>
 				<li>Tweak_PowerAdj_VFE_LiquorMixer</li>
 				<li>Tweak_PowerAdj_VFE_FishTrapper</li>
+				<li>Tweak_PowerAdj_RB_IndustrialApiary</li>
+				<li>Tweak_PowerAdj_RB_Honey_Centrifuge</li>
+				<li>Tweak_PowerAdj_RB_Advanced_Honey_Centrifuge</li>
+				<li>Tweak_PowerAdj_RB_AdvancedBeehouse</li>
+				<li>Tweak_PowerAdj_RB_AdvancedClimatizedBeehouse</li>
+				<li>Tweak_PowerAdj_RB_SpacerBeehouse</li>
+				<li>Tweak_PowerAdj_kathanon_GrowthAccelerator_GrowthVatAccelerator</li>
+				<li>Tweak_PowerAdj_LabStation</li>
+				<li>Tweak_PowerAdj_LabTerminal</li>
+				<li>Tweak_PowerAdj_Spaceports_FuelProcessor</li>
+				<li>Tweak_PowerAdj_Spaceports_FuelTank</li>
+				<li>Tweak_PowerAdj_Spaceports_FuelDispenser</li>
+				<li>Tweak_PowerAdj_Spaceports_ShuttleLandingPad</li>
+				<li>Tweak_PowerAdj_Spaceports_Beacon</li>
+				<li>Tweak_PowerAdj_RR_VoltaicPile</li>
+				<li>Tweak_PowerAdj_AdvancedPollutionPump</li>
+				<li>Tweak_PowerAdj_AdvancedToxifierGenerator</li>
+				<li>Tweak_PowerAdj_FFE_KitchenFridge</li>
+				<li>Tweak_PowerAdj_FFE_KitchenFridgeLarge</li>
 			</keys>
 			<values>
 				<li>6</li>
@@ -1299,6 +1318,25 @@
 				<li>720</li>
 				<li>700</li>
 				<li>500</li>
+				<li>250</li>
+				<li>100</li>
+				<li>450</li>
+				<li>120</li>
+				<li>135</li>
+				<li>250</li>
+				<li>400</li>
+				<li>250</li>
+				<li>250</li>
+				<li>1000</li>
+				<li>100</li>
+				<li>50</li>
+				<li>100</li>
+				<li>300</li>
+				<li>-200</li>
+				<li>1600</li>
+				<li>-7000</li>
+				<li>80</li>
+				<li>120</li>
 			</values>
 		</intSetting>
 		<intRangeSetting>
@@ -1856,6 +1894,34 @@
 				<li>VFE_IndustrialSoups</li>
 				<li>VFE_Aquaponics</li>
 				<li>AM_AlphaHardwareUpgrade</li>
+				<li>VFE_IndustrialBeekeeping</li>
+				<li>RB_BasicBeekeeping</li>
+				<li>RB_BeeBreeding</li>
+				<li>RB_BeeHybridizing</li>
+				<li>RB_MeadBrewing</li>
+				<li>RB_BeeswaxLighting</li>
+				<li>RB_ClimatizedBeehouses</li>
+				<li>RB_AdvancedBeehouses</li>
+				<li>RB_AdvancedClimatization</li>
+				<li>RB_SpacerBeekeeping</li>
+				<li>RB_AdvancedCentrifugation</li>
+				<li>kathanon_GrowthAccelerator_GrowthVatAccelerators</li>
+				<li>TranscendentTech</li>
+				<li>I_BasicImplants</li>
+				<li>I_SanguophageImplants</li>
+				<li>ApparelRecycling</li>
+				<li>RR_LateralThinking</li>
+				<li>RR_Organization</li>
+				<li>RR_BasicFoodPrep</li>
+				<li>RR_BasicApparel</li>
+				<li>RR_BasicCraftingFacilities</li>
+				<li>RR_ElectricityBasics</li>
+				<li>RR_HeatingElements</li>
+				<li>RR_PowerGenerators</li>
+				<li>FFE_BasicStorages</li>
+				<li>FFE_ComplexStorages</li>
+				<li>FFE_ModernStorages</li>
+				<li>FFE_AdvancedStorages</li>
 			</keys>
 			<values>
 				<li>
@@ -5175,6 +5241,205 @@
 					<techprintMarketValue>1000</techprintMarketValue>
 					<techprintTags IsNull="True" />
 				</li>
+				<li>
+					<baseCost>750</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>1</techprintCount>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>700</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1</baseCost>
+					<techLevel>Animal</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>25</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>25</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>50</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
 			</values>
 		</tweak_researchProjectSettings>
 		<tweak_pennedAnimalDict>
@@ -6830,6 +7095,26 @@
 				<li>Corpse_VDE_Dryad_Nectarmaker</li>
 				<li>Corpse_VRE_CompanionDryad</li>
 				<li>Corpse_VFE_Mech_Slurrymaster</li>
+				<li>GR_BeeHybrid_Bearbee</li>
+				<li>GR_BeeHybrid_Boombee</li>
+				<li>GR_BeeHybrid_Catbee</li>
+				<li>GR_BeeHybrid_Chickenbee</li>
+				<li>GR_BeeHybrid_Spiderbee</li>
+				<li>GR_BeeHybrid_Muffalobee</li>
+				<li>GR_BeeHybrid_Lizardbee</li>
+				<li>GR_BeeHybrid_Mousebee</li>
+				<li>GR_BeeHybrid_Thrumbee</li>
+				<li>GR_BeeHybrid_Wolfbee</li>
+				<li>Corpse_GR_BeeHybrid_Bearbee</li>
+				<li>Corpse_GR_BeeHybrid_Boombee</li>
+				<li>Corpse_GR_BeeHybrid_Catbee</li>
+				<li>Corpse_GR_BeeHybrid_Chickenbee</li>
+				<li>Corpse_GR_BeeHybrid_Spiderbee</li>
+				<li>Corpse_GR_BeeHybrid_Muffalobee</li>
+				<li>Corpse_GR_BeeHybrid_Lizardbee</li>
+				<li>Corpse_GR_BeeHybrid_Mousebee</li>
+				<li>Corpse_GR_BeeHybrid_Thrumbee</li>
+				<li>Corpse_GR_BeeHybrid_Wolfbee</li>
 			</keys>
 			<values>
 				<li>0</li>
@@ -8479,6 +8764,26 @@
 				<li>0</li>
 				<li>0</li>
 				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>5</li>
+				<li>0</li>
+				<li>2</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>5</li>
+				<li>0</li>
+				<li>2</li>
 				<li>0</li>
 				<li>0</li>
 				<li>0</li>
@@ -8747,6 +9052,57 @@
 				<li>SrLogging</li>
 				<li>SrHositleTraveler</li>
 				<li>SrHositleCaravanPassing</li>
+				<li>RB_ResourcePodCrash</li>
+				<li>Spaceports_KesslerSyndrome</li>
+				<li>Spaceports_TraderShuttleArrival</li>
+				<li>Spaceports_VisitorShuttleArrival</li>
+				<li>Spaceports_ShuttleMedevac</li>
+				<li>Spaceports_MedevacReward</li>
+				<li>Spaceports_InterstellarDerelict</li>
+				<li>Spaceports_MysteryCargo</li>
+				<li>Spaceports_PrisonerTransfer</li>
+				<li>Spaceports_SpicyPawnLending</li>
+				<li>NCSS_Sandstorm</li>
+				<li>TGAA_BlessingZeus</li>
+				<li>TGAA_BlessingUnity</li>
+				<li>TGAA_BlessingHarvest</li>
+				<li>TGAA_BlessingFeast</li>
+				<li>TGAA_BlessingHealing</li>
+				<li>TGAA_BlessingWealth</li>
+				<li>TGAA_BlessingArchotech</li>
+				<li>TGAA_BlessingDestruction</li>
+				<li>TGAA_BlessingBacchus</li>
+				<li>TGAA_BlessingHaste</li>
+				<li>TGAA_BlessingHussar</li>
+				<li>TGAA_BlessingInspiration</li>
+				<li>TGAA_BlessingMastery</li>
+				<li>TGAA_BlessingResurrection</li>
+				<li>TGAA_BlessingRestoration</li>
+				<li>TGAA_BlessingSatisfaction</li>
+				<li>TGAA_BlessingWar</li>
+				<li>TGAA_BlessingWarrior</li>
+				<li>TGAA_BlessingLight</li>
+				<li>TGAA_BlessingDarkness</li>
+				<li>TGAA_ConsequenceLightning</li>
+				<li>TGAA_ConsequenceFire</li>
+				<li>TGAA_ConsequenceBlight</li>
+				<li>TGAA_ConsequenceTainting</li>
+				<li>TGAA_ConsequenceBlood</li>
+				<li>TGAA_ConsequenceDeath</li>
+				<li>TGAA_ConsequenceFamine</li>
+				<li>TGAA_ConsequenceHunt</li>
+				<li>TGAA_ConsequenceSun</li>
+				<li>TGAA_ConsequenceDisease</li>
+				<li>TGAA_ConsequenceMeteorite</li>
+				<li>TGAA_ConsequenceMadness</li>
+				<li>TGAA_ConsequenceSlumber</li>
+				<li>TGAA_ConsequenceArchotech</li>
+				<li>TGAA_ConsequenceHate</li>
+				<li>TGAA_ConsequenceStorm</li>
+				<li>TGAA_ConsequenceSwarm</li>
+				<li>TGAA_ConsequenceRandy</li>
+				<li>TGAA_ConsequenceDarkness</li>
+				<li>TGAA_ConsequenceLight</li>
 			</keys>
 			<values>
 				<li>0</li>
@@ -9009,6 +9365,57 @@
 				<li>0.8</li>
 				<li>1</li>
 				<li>1</li>
+				<li>0</li>
+				<li>0.5</li>
+				<li>0</li>
+				<li>0</li>
+				<li>1</li>
+				<li>0</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>0</li>
+				<li>1</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
 			</values>
 		</tweak_eventcontrolDict>
 		<tweak_animaPsylinkLevelNeeds>
@@ -12454,6 +12861,8 @@
 				<li>VRE_Morphs_VRE_Animakin</li>
 				<li>VRE_Morphs_VRE_Poluxkin</li>
 				<li>VRE_Morphs_EF_Elders</li>
+				<li>VREHT_WeaponAptitude_BotchJob_ProfanedScythe</li>
+				<li>VREHT_WeaponAptitude_BotchJob_FadingSoulScythe</li>
 			</keys>
 			<values>
 				<li>False</li>
@@ -15098,6 +15507,8 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
