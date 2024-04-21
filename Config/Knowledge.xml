@@ -147,7 +147,7 @@
     </li>
     <li>
       <key>AnimalTaming</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTraining</key>
@@ -183,7 +183,7 @@
     </li>
     <li>
       <key>MedicalOperations</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TimeAssignments</key>

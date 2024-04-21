@@ -57,7 +57,6 @@
 			<li>VWE_MeleeWeapon_TribalAxe</li>
 			<li>VWEL_Gun_SalvagedLaserPistol</li>
 			<li>MeleeWeapon_AnimaStaff</li>
-			<li>SpiritSpear</li>
 			<li>VWEFT_Gun_SalvagedLaserRevolver</li>
 			<li>Mallet</li>
 			<li>Primitive_Pick</li>
@@ -79,7 +78,6 @@
 			<li>Weapon_GrenadeEMP</li>
 			<li>Weapon_GrenadeTox</li>
 			<li>VWE_FlashGrenade</li>
-			<li>ObsidianSpear</li>
 			<li>VWE_TearGasGrenade</li>
 			<li>Weapon_GrenadeFrag</li>
 			<li>Weapon_GrenadeMolotov</li>
@@ -154,7 +152,6 @@
 			<li>MPT_MeleeWeapon_PsyfocusStaffBladelink</li>
 			<li>VWE_MeleeWeapon_TribalAxe</li>
 			<li>MeleeWeapon_AnimaStaff</li>
-			<li>SpiritSpear</li>
 			<li>Mallet</li>
 			<li>Primitive_Pick</li>
 			<li>Primitive_Axe</li>
@@ -165,7 +162,6 @@
 			<li>VPE_MeleeWeapon_EltexMace</li>
 			<li>VPE_MeleeWeapon_EltexDagger</li>
 			<li>Primitive_Tools_Set</li>
-			<li>ObsidianSpear</li>
 			<li>Parchment</li>
 			<li>VWE_MeleeWeapon_StunBaton</li>
 			<li>ElephantTusk</li>

@@ -121,6 +121,7 @@
         <li>moistestwhale.ceilingtradebeacon</li>
         <li>kapitanoczywisty.changemapedge</li>
         <li>void.charactereditor</li>
+        <li>neronix17.retexture.charactereditor</li>
         <li>zylle.childboodbackstories</li>
         <li>kb.chillout</li>
         <li>spoonshortage.adogsaidanimalprosthetics</li>
@@ -185,6 +186,7 @@
         <li>zeracronius.dynamictradeinterface</li>
         <li>pixelbirb.dwc</li>
         <li>slashandz.easyconversions</li>
+        <li>blackmarket420.pandoraframework</li>
         <li>blackmarket420.eccentricmilitors</li>
         <li>xrushha.animagear</li>
         <li>xrushha.eldersfaction</li>
@@ -201,6 +203,7 @@
         <li>vanillaracesexpanded.saurid</li>
         <li>hawkwood.facialanimationsxenotypecompatibility</li>
         <li>kosaro.fahrenheitandcelsius</li>
+        <li>godlyannihilator.fastregen</li>
         <li>verdiss.fasteraging</li>
         <li>inglix.fasterbiosculptingpod</li>
         <li>ferny.easycaravanformation</li>
@@ -212,6 +215,8 @@
         <li>neronix17.outland.genetics</li>
         <li>neronix17.forgottenrealms</li>
         <li>denethor0.gainskillpassions</li>
+        <li>orion.cashregister</li>
+        <li>orion.gastronomy</li>
         <li>farxmai2.genebanksexapnded</li>
         <li>redmattis.geneextractor</li>
         <li>danielwedemeyer.generipper</li>
@@ -250,6 +255,11 @@
         <li>vesper.hologramsandprojectors</li>
         <li>iworosiak.holsters</li>
         <li>adamas.hospital</li>
+        <li>orion.hospitality</li>
+        <li>adamas.hospitalitycasino</li>
+        <li>adamas.hospitalityspa</li>
+        <li>adamas.storefront</li>
+        <li>adamas.vendingmachines</li>
         <li>imranfish.xmlextensions</li>
         <li>daysleep.humanpregnancyduration</li>
         <li>pal5k.huntermechanoid</li>
@@ -275,6 +285,7 @@
         <li>vanillaexpanded.vchemfuele</li>
         <li>vanillaexpanded.vgeneticse</li>
         <li>ferny.xenooranimalgenetics</li>
+        <li>scorpio.itemteleporter</li>
         <li>zylle.gemstones</li>
         <li>kikohi.jewelry</li>
         <li>mlie.justputitoverthere</li>
@@ -294,6 +305,7 @@
         <li>aranmaho.makai.psycast</li>
         <li>zylle.mapdesigner</li>
         <li>m00nl1ght.mappreview</li>
+        <li>sov.pizza</li>
         <li>kathanon.markfordestruction</li>
         <li>tk421storm.maskswithhats</li>
         <li>uuugggg.mealsonwheels</li>
@@ -301,6 +313,7 @@
         <li>sumghai.medpod</li>
         <li>taranchuk.performanceoptimizer</li>
         <li>co.uk.epicguru.meleeanimation</li>
+        <li>dd.unofficial.notfood.mendandrecycle</li>
         <li>mo.mhscanner</li>
         <li>marceline.milkretexture</li>
         <li>erdelf.minifyeverything</li>
@@ -330,6 +343,9 @@
         <li>troopersmith1.lifesupport</li>
         <li>4loris4.morelinkables</li>
         <li>ogliss.thewhitecrayon.quarry</li>
+        <li>ratys.rtfuse</li>
+        <li>ratys.rtpowerswitch</li>
+        <li>ratys.rtsolarflareshield</li>
         <li>lucifer.realisticrooms</li>
         <li>uuugggg.replacestuff</li>
         <li>dubwise.rimefeller</li>
@@ -381,12 +397,10 @@
         <li>murmur.pawnnamevariety</li>
         <li>fed1splay.pawntargetfix</li>
         <li>joseasoler.peerpressure</li>
-        <li>wtfomgjohnny.perishable</li>
         <li>ferny.persistentcavalryspikes</li>
         <li>alleykat.persistentprecepts</li>
         <li>phaneron.basic.storage</li>
         <li>cat.plasmapack</li>
-        <li>mlie.pleasehaulperishables</li>
         <li>botchjob.possessedweapons</li>
         <li>vanillaexpanded.varme</li>
         <li>spankyh.shpar</li>
@@ -404,8 +418,10 @@
         <li>kongkim.panelsframes</li>
         <li>ferny.propsforpanelsandframes</li>
         <li>mlie.prostheticnomissingbodyparts</li>
+        <li>tr.qualcolor</li>
         <li>hatti.qualitybuilder</li>
         <li>sandy.rpgstyleinventory.avilmask.revamped</li>
+        <li>soulretextured.rtfuse</li>
         <li>brrainz.rangefinder</li>
         <li>mlie.rats</li>
         <li>regrowth.botr.retextures</li>
@@ -566,6 +582,7 @@
         <li>vanillaracesexpanded.hussar</li>
         <li>vanillaracesexpanded.lycanthrope</li>
         <li>vanillaracesexpanded.pigskin</li>
+        <li>phoenix135.vanillahsolarhshieldhretexture</li>
         <li>vse.perrypersistent</li>
         <li>vanillaexpanded.temperature</li>
         <li>vanillaexpanded.vanillatradingexpanded</li>
@@ -638,6 +655,7 @@
         <li>grizzlemethis.tradingspot.rw</li>
         <li>harkon.veaddon.vanillaexpandedextraembrasures</li>
         <li>jgh.epoe</li>
+        <li>jgh.repairworkbench</li>
         <li>limetreesnake.furnishing</li>
         <li>ladycookie.untitled</li>
         <li>ladycookie.highmatecatearhair</li>
