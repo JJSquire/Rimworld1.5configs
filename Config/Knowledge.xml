@@ -417,5 +417,21 @@
       <key>WVC_MMWM_BehaviorsGuide</key>
       <value>0</value>
     </li>
+    <li>
+      <key>GuestBeds</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>RecruitGuest</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>GuestWork</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Hospitality</key>
+      <value>0</value>
+    </li>
   </knowledge>
 </ConceptKnowledge>

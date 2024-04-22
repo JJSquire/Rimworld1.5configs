@@ -725,6 +725,7 @@
 				<li>NiilosQoL;NiilosQoL_Settings_Debug_CPR_dll</li>
 				<li>NiilosQoL;NiilosQoL_Settings_Debug_CPR_dll_BalanceInfo</li>
 				<li>NiilosQoL;NiilosQoL_Settings_Debug_CPR_dll_JobDriver</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFWarcasketsAreCapable</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -1437,6 +1438,7 @@
 				<li>false</li>
 				<li>false</li>
 				<li>1</li>
+				<li>false</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
