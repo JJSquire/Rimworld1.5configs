@@ -5,13 +5,17 @@
         <li>zetrith.prepatcher</li>
         <li>brrainz.harmony</li>
         <li>me.samboycoding.betterloading.dev</li>
+        <li>bs.fishery</li>
         <li>ludeon.rimworld</li>
+        <li>bs.performance</li>
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
         <li>ludeon.rimworld.anomaly</li>
         <li>vanillaexpanded.backgrounds</li>
         <li>unlimitedhugs.hugslib</li>
+        <li>latta.fsharp.core</li>
+        <li>latta.petknowstrueyou</li>
         <li>sumghai.replimat</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>vanillaexpanded.vappe</li>
@@ -19,7 +23,6 @@
         <li>anthitei.athsretexturefemalapparel.retexture</li>
         <li>anthitei.athsstyleableframework.style</li>
         <li>anthitei.athsstylegothic.style</li>
-        <li>latta.fsharp.core</li>
         <li>neronix17.toolbox</li>
         <li>brrainz.achtung</li>
         <li>billnotic.actuallyvanillamusicexpansion</li>
@@ -35,6 +38,7 @@
         <li>com.github.alandariva.moreplanning</li>
         <li>unlimitedhugs.allowtool</li>
         <li>runningbugs.allowtoolghoulfix</li>
+        <li>chad.almostthere1.5</li>
         <li>oskarpotocki.vfe.tribals</li>
         <li>vanillaexpanded.vcef</li>
         <li>vanillaracesexpanded.android</li>
@@ -124,6 +128,7 @@
         <li>neronix17.retexture.charactereditor</li>
         <li>zylle.childboodbackstories</li>
         <li>kb.chillout</li>
+        <li>oels.chooseyouroutfit</li>
         <li>spoonshortage.adogsaidanimalprosthetics</li>
         <li>pathfinding.framework</li>
         <li>biomesteam.biomescore</li>
@@ -192,6 +197,8 @@
         <li>xrushha.animagear</li>
         <li>xrushha.eldersfaction</li>
         <li>cocaine.electricstonecuttingtable</li>
+        <li>slimesenpai.endlessgrowth</li>
+        <li>smartkar.enhancedbeliefs</li>
         <li>smartkar.enhancedvatlearning</li>
         <li>cucumpear.azrael.varietycoats</li>
         <li>erin.cats</li>
@@ -216,8 +223,6 @@
         <li>neronix17.outland.genetics</li>
         <li>neronix17.forgottenrealms</li>
         <li>denethor0.gainskillpassions</li>
-        <li>orion.cashregister</li>
-        <li>orion.gastronomy</li>
         <li>farxmai2.genebanksexapnded</li>
         <li>redmattis.geneextractor</li>
         <li>danielwedemeyer.generipper</li>
@@ -259,6 +264,7 @@
         <li>orion.hospitality</li>
         <li>adamas.hospitalitycasino</li>
         <li>adamas.hospitalityspa</li>
+        <li>orion.cashregister</li>
         <li>adamas.storefront</li>
         <li>adamas.vendingmachines</li>
         <li>imranfish.xmlextensions</li>
@@ -302,7 +308,7 @@
         <li>petetimessix.researchreinvented</li>
         <li>jaxe.rimhud</li>
         <li>vanillaexpanded.skills</li>
-        <li>ratys.madskills</li>
+        <li>cedaro.madskillsplus</li>
         <li>aranmaho.makai.psycast</li>
         <li>zylle.mapdesigner</li>
         <li>m00nl1ght.mappreview</li>
@@ -319,6 +325,7 @@
         <li>marceline.milkretexture</li>
         <li>erdelf.minifyeverything</li>
         <li>superniquito.modoptionssort</li>
+        <li>mooloh.mythicitems</li>
         <li>arquebus.moregenecomplexity</li>
         <li>arquebus.morepersonatraits</li>
         <li>amch.moresleepaccelerators</li>
@@ -377,6 +384,7 @@
         <li>vanillaexpanded.vwenl</li>
         <li>loregret.veextra.nonlethal</li>
         <li>vesper.notmyfault</li>
+        <li>orion.gastronomy</li>
         <li>overheadmeal.patch</li>
         <li>mehni.numbers</li>
         <li>ogre.ogrestack</li>
@@ -389,6 +397,7 @@
         <li>oracle.skills.retexture</li>
         <li>orbital.books</li>
         <li>murmur.oocmovespeedboost</li>
+        <li>sert.ovumsforprisoners</li>
         <li>peppsen.pmusic</li>
         <li>andromeda.packablecontainers</li>
         <li>mosi.bridgecolor2</li>
@@ -451,13 +460,16 @@
         <li>co.uk.epicguru.factionloadout</li>
         <li>titaniusrex.riverenergy</li>
         <li>quixotic.rolescanwait</li>
+        <li>telardo.romanceontherim</li>
         <li>rooboid.dreadlockhairshd</li>
         <li>roolo.runandgun</li>
         <li>biomesteam.oasis</li>
         <li>nightmare.sandstorms</li>
+        <li>hopeseekr.betterrimworlds.savegameshrinker</li>
         <li>scar.basicfarming</li>
         <li>nimrag.scenariosearchbar</li>
         <li>ferny.sculptingbench</li>
+        <li>memegoddess.searchanddestroy</li>
         <li>kathanon.floatsubmenu</li>
         <li>kathanon.searchablemenus</li>
         <li>sambucher.selectivebioregeneration</li>
@@ -525,6 +537,7 @@
         <li>marvinkosh.ughyougotme</li>
         <li>uglytogether.leeh</li>
         <li>grimm.unlimited</li>
+        <li>tbba.uncappedbesties</li>
         <li>uuugggg.usebedrolls</li>
         <li>ushanka.biologicalwarfare</li>
         <li>nephlite.orbitaltradecolumn</li>
@@ -560,6 +573,7 @@
         <li>vanillaexpanded.vanillabackstoriesexpanded</li>
         <li>vanillaexpanded.basegenerationexpanded</li>
         <li>neronix17.retexture.vanillabeards</li>
+        <li>bambaryla.vcepu</li>
         <li>nomadrw.retextureandrestylevanillachemfuelexpanded</li>
         <li>vanillaexpanded.vcookestews</li>
         <li>hol.vetpa</li>
@@ -594,8 +608,10 @@
         <li>vanillaexpanded.vwems</li>
         <li>vanillaexpanded.vwetb</li>
         <li>mlie.variousspaceshipchunk</li>
+        <li>mrhydralisk.vaulthunters</li>
         <li>cedaro.vehiclegenerator</li>
         <li>wall.light.relic</li>
+        <li>divinederivative.romance</li>
         <li>mlie.wehadatrader</li>
         <li>bodlosh.weaponstats</li>
         <li>co.uk.epicguru.whatsthatmod</li>
@@ -612,6 +628,7 @@
         <li>automatic.gunplay</li>
         <li>com.yayo.yayoani.continued</li>
         <li>mlie.yayoscaravan</li>
+        <li>mlie.yayoscombat3</li>
         <li>bart.app</li>
         <li>bart.atg</li>
         <li>bart.cmw</li>
@@ -626,6 +643,7 @@
         <li>better.plants</li>
         <li>vanillaexpanded.vbrewe</li>
         <li>frozensnowfox.betterancientcomplexloot</li>
+        <li>frozensnowfox.betteranomalyloot</li>
         <li>frozensnowfox.bettercamploot</li>
         <li>frozensnowfox.betterspiketraps</li>
         <li>dubwise.dubspaintshop</li>

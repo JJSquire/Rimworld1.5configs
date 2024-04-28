@@ -2,6 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="TD_Find_Lib.Settings">
 		<warnedCustom>True</warnedCustom>
+		<warnedListing>True</warnedListing>
 		<searchGroups>
 			<li>
 				<searches />

@@ -7,7 +7,7 @@
     </li>
     <li>
       <key>ReformCaravan</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Rescuing</key>
@@ -35,7 +35,7 @@
     </li>
     <li>
       <key>BuildOrbitalTradeBeacon</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalsDontAttackDoors</key>
@@ -47,7 +47,7 @@
     </li>
     <li>
       <key>OpeningComms</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DrugAddiction</key>
@@ -59,7 +59,7 @@
     </li>
     <li>
       <key>TVForSickPeople</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>PrisonerTab</key>
@@ -139,11 +139,11 @@
     </li>
     <li>
       <key>CoverAndShooting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FormCaravan</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTaming</key>
@@ -151,7 +151,7 @@
     </li>
     <li>
       <key>AnimalTraining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>InfoCard</key>
@@ -163,15 +163,15 @@
     </li>
     <li>
       <key>HomeArea</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Deterioration</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HostilityResponse</key>
@@ -203,7 +203,7 @@
     </li>
     <li>
       <key>Outfits</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FirePreparation</key>
@@ -227,7 +227,7 @@
     </li>
     <li>
       <key>TradeGoodsMustBeNearBeacon</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ArrestingCreatesEnemies</key>
@@ -235,7 +235,7 @@
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MaxNumberOfPlayerSettlements</key>
@@ -255,11 +255,11 @@
     </li>
     <li>
       <key>MeditationSchedule</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MeditationDesiredPsyfocus</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EditingMemes</key>
@@ -303,7 +303,7 @@
     </li>
     <li>
       <key>ContainingEntities</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>StudyingEntities</key>
@@ -327,7 +327,7 @@
     </li>
     <li>
       <key>VoidProvocation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BuildersTryMine</key>
@@ -339,7 +339,7 @@
     </li>
     <li>
       <key>Concept_SidearmsDropping</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SidearmsMissing</key>
@@ -351,7 +351,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedRanged</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedMelee</key>
@@ -359,7 +359,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsLosingWeapons</key>
@@ -419,19 +419,19 @@
     </li>
     <li>
       <key>GuestBeds</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>RecruitGuest</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GuestWork</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Hospitality</key>
-      <value>0</value>
+      <value>1</value>
     </li>
   </knowledge>
 </ConceptKnowledge>

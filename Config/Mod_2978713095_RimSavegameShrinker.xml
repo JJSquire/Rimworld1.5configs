@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterRimworlds.SavegameShrinker.Settings">
+		<brw.saveshrinker.shrinkTales>True</brw.saveshrinker.shrinkTales>
+		<brw.saveshrinker.shrinkQuestsUnaccepted>True</brw.saveshrinker.shrinkQuestsUnaccepted>
+	</ModSettings>
+</SettingsBlock>

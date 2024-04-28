@@ -2,7 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="TraitSlotsPlus.Settings">
 		<TraitsMin>3</TraitsMin>
-		<TraitsMax>7</TraitsMax>
 		<TraitProbabilities>
 			<keys />
 			<values />
