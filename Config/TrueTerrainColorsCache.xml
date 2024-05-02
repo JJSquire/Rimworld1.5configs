@@ -17460,4 +17460,49 @@
       <a>0</a>
     </Color>
   </CacheEntry>
+  <CacheEntry>
+    <DefName>AM_Tile_Flesh</DefName>
+    <Color>
+      <r>0.65882355</r>
+      <g>0.490196079</g>
+      <b>0.4862745</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>AM_Tile_Flesh_Metal</DefName>
+    <Color>
+      <r>0.5803922</r>
+      <g>0.4392157</g>
+      <b>0.447058827</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>UCStripedFloor</DefName>
+    <Color>
+      <r>0.2889296</r>
+      <g>0.248194158</g>
+      <b>0.013922248</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>UCScaffoldFloor</DefName>
+    <Color>
+      <r>0.330225974</r>
+      <g>0.2945534</g>
+      <b>0.229323581</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>UCScaffoldTile</DefName>
+    <Color>
+      <r>0.353673935</r>
+      <g>0.315468431</g>
+      <b>0.245606929</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
 </ArrayOfCacheEntry>

@@ -862,6 +862,13 @@
     </value>
   </li>
   <li>
+    <key>ShowDetails</key>
+    <value>
+      <keyBindingA>LeftControl</keyBindingA>
+      <keyBindingB>RightControl</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>

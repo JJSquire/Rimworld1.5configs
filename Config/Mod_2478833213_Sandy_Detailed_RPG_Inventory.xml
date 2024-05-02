@@ -3,5 +3,6 @@
 	<ModSettings Class="Sandy_Detailed_RPG_Inventory.Sandy_RPG_Settings">
 		<displayTempOnTheSameLine>False</displayTempOnTheSameLine>
 		<apparelHealthbar>False</apparelHealthbar>
+		<Human_simplifiedView>True</Human_simplifiedView>
 	</ModSettings>
 </SettingsBlock>

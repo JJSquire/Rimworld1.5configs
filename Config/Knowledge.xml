@@ -175,7 +175,7 @@
     </li>
     <li>
       <key>HostilityResponse</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AllowedAreas</key>
@@ -355,7 +355,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedMelee</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
