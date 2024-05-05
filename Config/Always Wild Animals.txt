@@ -1,3 +1,10 @@
 IsOngoingCustomGame=False
 score=0
 IsNewCustomGame=False
+HighScore=0
+PublishedFileId=3079359376
+SaveDataJSON=
+WindowHeight=180
+WindowWidth=390
+MinCount=10
+RefreshRate=420

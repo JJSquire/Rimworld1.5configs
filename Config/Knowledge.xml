@@ -19,7 +19,7 @@
     </li>
     <li>
       <key>ShieldBelts</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>InteractingWithTraders</key>
@@ -75,7 +75,7 @@
     </li>
     <li>
       <key>DoorOpenSpeed</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>QueueOrders</key>
@@ -179,7 +179,7 @@
     </li>
     <li>
       <key>AllowedAreas</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MedicalOperations</key>
@@ -195,7 +195,7 @@
     </li>
     <li>
       <key>GettingMoreTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TileInspector</key>
@@ -207,11 +207,11 @@
     </li>
     <li>
       <key>FirePreparation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HistoryTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ClickingMessages</key>
@@ -219,11 +219,11 @@
     </li>
     <li>
       <key>ShotAccuracyTooltip</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FriendlyFireSafety</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TradeGoodsMustBeNearBeacon</key>
@@ -331,7 +331,7 @@
     </li>
     <li>
       <key>BuildersTryMine</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsBasic</key>
@@ -347,7 +347,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsPreference</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedRanged</key>
@@ -415,7 +415,7 @@
     </li>
     <li>
       <key>WVC_MMWM_BehaviorsGuide</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GuestBeds</key>

@@ -869,6 +869,13 @@
     </value>
   </li>
   <li>
+    <key>MainTab_Chat</key>
+    <value>
+      <keyBindingA>P</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>

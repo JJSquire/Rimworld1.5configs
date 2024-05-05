@@ -29,7 +29,7 @@
   <steamDeckKeyboardMode>False</steamDeckKeyboardMode>
   <preferredNames />
   <resourceReadoutCategorized>True</resourceReadoutCategorized>
-  <runInBackground>False</runInBackground>
+  <runInBackground>True</runInBackground>
   <edgeScreenScroll>True</edgeScreenScroll>
   <zoomToMouse>False</zoomToMouse>
   <temperatureMode>Celsius</temperatureMode>

@@ -176,8 +176,12 @@
 				<li>VRE_FungoidShipPartCrash</li>
 				<li>VSIE_OneNightStand</li>
 				<li>BeeHiveSprout</li>
+				<li>TraitChange</li>
+				<li>TraitRemove</li>
 			</keys>
 			<values>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -526,6 +530,8 @@
 				<li>VRE_FungoidShipPartCrash</li>
 				<li>VSIE_OneNightStand</li>
 				<li>BeeHiveSprout</li>
+				<li>TraitChange</li>
+				<li>TraitRemove</li>
 			</keys>
 			<values>
 				<li>1</li>
@@ -700,6 +706,8 @@
 				<li>0.5</li>
 				<li>0.01</li>
 				<li>0.35</li>
+				<li>0.6</li>
+				<li>0.6</li>
 			</values>
 		</incidentsOccurence>
 		<incidentsOccurenceForReset>
@@ -876,6 +884,8 @@
 				<li>VRE_FungoidShipPartCrash</li>
 				<li>VSIE_OneNightStand</li>
 				<li>BeeHiveSprout</li>
+				<li>TraitChange</li>
+				<li>TraitRemove</li>
 			</keys>
 			<values>
 				<li>1</li>
@@ -1050,6 +1060,8 @@
 				<li>0.5</li>
 				<li>0.01</li>
 				<li>0.35</li>
+				<li>0.6</li>
+				<li>0.6</li>
 			</values>
 		</incidentsOccurenceForReset>
 	</ModSettings>

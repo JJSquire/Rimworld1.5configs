@@ -1985,6 +1985,10 @@
 				<li>SSResearchableStatUpgrades;buildingbasehp3_research_cost</li>
 				<li>SSResearchableStatUpgrades;buildingbasehp4_research_cost</li>
 				<li>SSResearchableStatUpgrades;growr_statbonus_plantharvestyield</li>
+				<li>MrKociak.YetAnotherProstheticExpansionModCore;BIE_CraftUltra</li>
+				<li>MrKociak.YetAnotherProstheticExpansionModAnimals;BIE_Tailbone</li>
+				<li>SamBucher.ADogSaidAnimalProsthetics2;animalCategoryToggle</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFInteractionSpotsCanOverlap</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -3969,6 +3973,10 @@
 				<li>500</li>
 				<li>500</li>
 				<li>1.01</li>
+				<li>false</li>
+				<li>false</li>
+				<li>true</li>
+				<li>false</li>
 			</values>
 		</dataDict>
 		<PinnedMods />
