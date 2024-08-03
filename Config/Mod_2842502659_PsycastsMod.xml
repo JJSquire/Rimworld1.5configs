@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="VanillaPsycastsExpanded.PsycastSettings">
+		<shrink>False</shrink>
 		<muteSkipdoor>True</muteSkipdoor>
 	</ModSettings>
 </SettingsBlock>

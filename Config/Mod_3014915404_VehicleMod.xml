@@ -229,6 +229,51 @@
 					<innerKeys />
 					<innerValues />
 				</li>
+				<li>
+					<key>SCWintermute</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>SoS2_Shuttle_Personal</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>SoS2_Shuttle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>SoS2_Shuttle_Heavy</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>SoS2_Shuttle_Superheavy</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>JAHV_Avenger</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>JAHV_Conquistador</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>JASV_Warchief</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>Tractor_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
 			</fieldSettings>
 			<vanillaStats />
 			<vehicleStats />

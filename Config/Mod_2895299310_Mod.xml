@@ -5,7 +5,33 @@
 		<warnedListing>True</warnedListing>
 		<searchGroups>
 			<li>
-				<searches />
+				<searches>
+					<li>
+						<name>Children</name>
+						<listType>Everyone</listType>
+						<mapType>ChosenMaps</mapType>
+						<searchMaps />
+						<queries>
+							<li Class="TD_Find_Lib.ThingQueryBasicProperty">
+								<def>Query_PawnProperty</def>
+							</li>
+							<li Class="TD_Find_Lib.ThingQueryBasicProperty">
+								<def>Query_PawnProperty</def>
+								<include>False</include>
+								<sel>IsSlaveOfColony</sel>
+							</li>
+							<li Class="TD_Find_Lib.ThingQueryQuest">
+								<def>Query_Quest</def>
+								<include>False</include>
+							</li>
+							<li Class="TD_Find_Lib.ThingQueryDevelopmentalStage">
+								<def>Query_ThingQueryDevelopmentalStage</def>
+								<sel>Child</sel>
+							</li>
+						</queries>
+						<matchAllQueries>True</matchAllQueries>
+					</li>
+				</searches>
 			</li>
 			<li>
 				<name>Sample Searches</name>

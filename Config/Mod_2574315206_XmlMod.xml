@@ -1989,6 +1989,355 @@
 				<li>MrKociak.YetAnotherProstheticExpansionModAnimals;BIE_Tailbone</li>
 				<li>SamBucher.ADogSaidAnimalProsthetics2;animalCategoryToggle</li>
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFInteractionSpotsCanOverlap</li>
+				<li>NiilosQoL;QE_MaintainVat_Key</li>
+				<li>NiilosQoL;MiscTraining_CombatTraining_Key</li>
+				<li>NiilosQoL;LTS_Tasks_Key</li>
+				<li>NiilosQoL;Gastronomy_Waiting_Key</li>
+				<li>NiilosQoL;FSFScan_Key</li>
+				<li>NiilosQoL;FSFHauling_Key</li>
+				<li>NiilosQoL;FSFDeliver_Key</li>
+				<li>NiilosQoL;FSFCremating_Key</li>
+				<li>NiilosQoL;FSFTransport_Key</li>
+				<li>NiilosQoL;FSFStoneCut_Key</li>
+				<li>NiilosQoL;FSFSmelt_Key</li>
+				<li>NiilosQoL;FSFProduction_Key</li>
+				<li>NiilosQoL;FSFRefining_Key</li>
+				<li>NiilosQoL;FSFFabrication_Key</li>
+				<li>NiilosQoL;FSFMachining_Key</li>
+				<li>NiilosQoL;FSFDrugs_Key</li>
+				<li>NiilosQoL;FSFDrilling_Key</li>
+				<li>NiilosQoL;FSFHarvesting_Key</li>
+				<li>NiilosQoL;FSFDeconstruct_Key</li>
+				<li>NiilosQoL;FSFRepair_Key</li>
+				<li>NiilosQoL;FSFButcher_Key</li>
+				<li>NiilosQoL;FSFTraining_Key</li>
+				<li>NiilosQoL;FSFRearming_Key</li>
+				<li>NiilosQoL;FSFSurgeon_Key</li>
+				<li>NiilosQoL;FSFNurse_Key</li>
+				<li>NiilosQoL;Therapist_Key</li>
+				<li>NiilosQoL;RimefellerCrafting_Key</li>
+				<li>NiilosQoL;NuclearWork_Key</li>
+				<li>NiilosQoL;QuarryMining_Key</li>
+				<li>NiilosQoL;GR_Genetics_Key</li>
+				<li>NiilosQoL;Storefront_Selling_Key</li>
+				<li>NiilosQoL;Diplomat_Key</li>
+				<li>NiilosQoL;VBE_Writing_Key</li>
+				<li>NiilosQoL;AQAquarium_Key</li>
+				<li>NiilosQoL;RB_BeekeepingWork_Key</li>
+				<li>NiilosQoL;FinishingOff_Key</li>
+				<li>NiilosQoL;HaulingUrgent_Key</li>
+				<li>NiilosQoL;VCEF_Fishing_Key</li>
+				<li>NiilosQoL;DarkStudy_Key</li>
+				<li>NiilosQoL;Childcare_Key</li>
+				<li>NiilosQoL;Research_Key</li>
+				<li>NiilosQoL;Cleaning_Key</li>
+				<li>NiilosQoL;Hauling_Key</li>
+				<li>NiilosQoL;Crafting_Key</li>
+				<li>NiilosQoL;Art_Key</li>
+				<li>NiilosQoL;Tailoring_Key</li>
+				<li>NiilosQoL;Smithing_Key</li>
+				<li>NiilosQoL;PlantCutting_Key</li>
+				<li>NiilosQoL;Mining_Key</li>
+				<li>NiilosQoL;Growing_Key</li>
+				<li>NiilosQoL;Construction_Key</li>
+				<li>NiilosQoL;Hunting_Key</li>
+				<li>NiilosQoL;Cooking_Key</li>
+				<li>NiilosQoL;Handling_Key</li>
+				<li>NiilosQoL;Warden_Key</li>
+				<li>NiilosQoL;BasicWorker_Key</li>
+				<li>NiilosQoL;PatientBedRest_Key</li>
+				<li>NiilosQoL;Doctor_Key</li>
+				<li>NiilosQoL;Patient_Key</li>
+				<li>NiilosQoL;Firefighter_Key</li>
+				<li>NiilosQoL_Profile_1;QE_MaintainVat_Key</li>
+				<li>NiilosQoL_Profile_1;MiscTraining_CombatTraining_Key</li>
+				<li>NiilosQoL_Profile_1;LTS_Tasks_Key</li>
+				<li>NiilosQoL_Profile_1;Gastronomy_Waiting_Key</li>
+				<li>NiilosQoL_Profile_1;FSFScan_Key</li>
+				<li>NiilosQoL_Profile_1;FSFHauling_Key</li>
+				<li>NiilosQoL_Profile_1;FSFDeliver_Key</li>
+				<li>NiilosQoL_Profile_1;FSFCremating_Key</li>
+				<li>NiilosQoL_Profile_1;FSFTransport_Key</li>
+				<li>NiilosQoL_Profile_1;FSFStoneCut_Key</li>
+				<li>NiilosQoL_Profile_1;FSFSmelt_Key</li>
+				<li>NiilosQoL_Profile_1;FSFProduction_Key</li>
+				<li>NiilosQoL_Profile_1;FSFRefining_Key</li>
+				<li>NiilosQoL_Profile_1;FSFFabrication_Key</li>
+				<li>NiilosQoL_Profile_1;FSFMachining_Key</li>
+				<li>NiilosQoL_Profile_1;FSFDrugs_Key</li>
+				<li>NiilosQoL_Profile_1;FSFDrilling_Key</li>
+				<li>NiilosQoL_Profile_1;FSFHarvesting_Key</li>
+				<li>NiilosQoL_Profile_1;FSFDeconstruct_Key</li>
+				<li>NiilosQoL_Profile_1;FSFRepair_Key</li>
+				<li>NiilosQoL_Profile_1;FSFButcher_Key</li>
+				<li>NiilosQoL_Profile_1;FSFTraining_Key</li>
+				<li>NiilosQoL_Profile_1;FSFRearming_Key</li>
+				<li>NiilosQoL_Profile_1;FSFSurgeon_Key</li>
+				<li>NiilosQoL_Profile_1;FSFNurse_Key</li>
+				<li>NiilosQoL_Profile_1;Therapist_Key</li>
+				<li>NiilosQoL_Profile_1;RimefellerCrafting_Key</li>
+				<li>NiilosQoL_Profile_1;NuclearWork_Key</li>
+				<li>NiilosQoL_Profile_1;QuarryMining_Key</li>
+				<li>NiilosQoL_Profile_1;GR_Genetics_Key</li>
+				<li>NiilosQoL_Profile_1;Storefront_Selling_Key</li>
+				<li>NiilosQoL_Profile_1;Diplomat_Key</li>
+				<li>NiilosQoL_Profile_1;VBE_Writing_Key</li>
+				<li>NiilosQoL_Profile_1;AQAquarium_Key</li>
+				<li>NiilosQoL_Profile_1;RB_BeekeepingWork_Key</li>
+				<li>NiilosQoL_Profile_1;FinishingOff_Key</li>
+				<li>NiilosQoL_Profile_1;HaulingUrgent_Key</li>
+				<li>NiilosQoL_Profile_1;VCEF_Fishing_Key</li>
+				<li>NiilosQoL_Profile_1;DarkStudy_Key</li>
+				<li>NiilosQoL_Profile_1;Childcare_Key</li>
+				<li>NiilosQoL_Profile_1;Research_Key</li>
+				<li>NiilosQoL_Profile_1;Cleaning_Key</li>
+				<li>NiilosQoL_Profile_1;Hauling_Key</li>
+				<li>NiilosQoL_Profile_1;Crafting_Key</li>
+				<li>NiilosQoL_Profile_1;Art_Key</li>
+				<li>NiilosQoL_Profile_1;Tailoring_Key</li>
+				<li>NiilosQoL_Profile_1;Smithing_Key</li>
+				<li>NiilosQoL_Profile_1;PlantCutting_Key</li>
+				<li>NiilosQoL_Profile_1;Mining_Key</li>
+				<li>NiilosQoL_Profile_1;Growing_Key</li>
+				<li>NiilosQoL_Profile_1;Construction_Key</li>
+				<li>NiilosQoL_Profile_1;Hunting_Key</li>
+				<li>NiilosQoL_Profile_1;Cooking_Key</li>
+				<li>NiilosQoL_Profile_1;Handling_Key</li>
+				<li>NiilosQoL_Profile_1;Warden_Key</li>
+				<li>NiilosQoL_Profile_1;BasicWorker_Key</li>
+				<li>NiilosQoL_Profile_1;PatientBedRest_Key</li>
+				<li>NiilosQoL_Profile_1;Doctor_Key</li>
+				<li>NiilosQoL_Profile_1;Patient_Key</li>
+				<li>NiilosQoL_Profile_1;Firefighter_Key</li>
+				<li>NiilosQoL_Profile_2;QE_MaintainVat_Key</li>
+				<li>NiilosQoL_Profile_2;MiscTraining_CombatTraining_Key</li>
+				<li>NiilosQoL_Profile_2;LTS_Tasks_Key</li>
+				<li>NiilosQoL_Profile_2;Gastronomy_Waiting_Key</li>
+				<li>NiilosQoL_Profile_2;FSFScan_Key</li>
+				<li>NiilosQoL_Profile_2;FSFHauling_Key</li>
+				<li>NiilosQoL_Profile_2;FSFDeliver_Key</li>
+				<li>NiilosQoL_Profile_2;FSFCremating_Key</li>
+				<li>NiilosQoL_Profile_2;FSFTransport_Key</li>
+				<li>NiilosQoL_Profile_2;FSFStoneCut_Key</li>
+				<li>NiilosQoL_Profile_2;FSFSmelt_Key</li>
+				<li>NiilosQoL_Profile_2;FSFProduction_Key</li>
+				<li>NiilosQoL_Profile_2;FSFRefining_Key</li>
+				<li>NiilosQoL_Profile_2;FSFFabrication_Key</li>
+				<li>NiilosQoL_Profile_2;FSFMachining_Key</li>
+				<li>NiilosQoL_Profile_2;FSFDrugs_Key</li>
+				<li>NiilosQoL_Profile_2;FSFDrilling_Key</li>
+				<li>NiilosQoL_Profile_2;FSFHarvesting_Key</li>
+				<li>NiilosQoL_Profile_2;FSFDeconstruct_Key</li>
+				<li>NiilosQoL_Profile_2;FSFRepair_Key</li>
+				<li>NiilosQoL_Profile_2;FSFButcher_Key</li>
+				<li>NiilosQoL_Profile_2;FSFTraining_Key</li>
+				<li>NiilosQoL_Profile_2;FSFRearming_Key</li>
+				<li>NiilosQoL_Profile_2;FSFSurgeon_Key</li>
+				<li>NiilosQoL_Profile_2;FSFNurse_Key</li>
+				<li>NiilosQoL_Profile_2;Therapist_Key</li>
+				<li>NiilosQoL_Profile_2;RimefellerCrafting_Key</li>
+				<li>NiilosQoL_Profile_2;NuclearWork_Key</li>
+				<li>NiilosQoL_Profile_2;QuarryMining_Key</li>
+				<li>NiilosQoL_Profile_2;GR_Genetics_Key</li>
+				<li>NiilosQoL_Profile_2;Storefront_Selling_Key</li>
+				<li>NiilosQoL_Profile_2;Diplomat_Key</li>
+				<li>NiilosQoL_Profile_2;VBE_Writing_Key</li>
+				<li>NiilosQoL_Profile_2;AQAquarium_Key</li>
+				<li>NiilosQoL_Profile_2;RB_BeekeepingWork_Key</li>
+				<li>NiilosQoL_Profile_2;FinishingOff_Key</li>
+				<li>NiilosQoL_Profile_2;HaulingUrgent_Key</li>
+				<li>NiilosQoL_Profile_2;VCEF_Fishing_Key</li>
+				<li>NiilosQoL_Profile_2;DarkStudy_Key</li>
+				<li>NiilosQoL_Profile_2;Childcare_Key</li>
+				<li>NiilosQoL_Profile_2;Research_Key</li>
+				<li>NiilosQoL_Profile_2;Cleaning_Key</li>
+				<li>NiilosQoL_Profile_2;Hauling_Key</li>
+				<li>NiilosQoL_Profile_2;Crafting_Key</li>
+				<li>NiilosQoL_Profile_2;Art_Key</li>
+				<li>NiilosQoL_Profile_2;Tailoring_Key</li>
+				<li>NiilosQoL_Profile_2;Smithing_Key</li>
+				<li>NiilosQoL_Profile_2;PlantCutting_Key</li>
+				<li>NiilosQoL_Profile_2;Mining_Key</li>
+				<li>NiilosQoL_Profile_2;Growing_Key</li>
+				<li>NiilosQoL_Profile_2;Construction_Key</li>
+				<li>NiilosQoL_Profile_2;Hunting_Key</li>
+				<li>NiilosQoL_Profile_2;Cooking_Key</li>
+				<li>NiilosQoL_Profile_2;Handling_Key</li>
+				<li>NiilosQoL_Profile_2;Warden_Key</li>
+				<li>NiilosQoL_Profile_2;BasicWorker_Key</li>
+				<li>NiilosQoL_Profile_2;PatientBedRest_Key</li>
+				<li>NiilosQoL_Profile_2;Doctor_Key</li>
+				<li>NiilosQoL_Profile_2;Patient_Key</li>
+				<li>NiilosQoL_Profile_2;Firefighter_Key</li>
+				<li>NiilosQoL_Profile_3;QE_MaintainVat_Key</li>
+				<li>NiilosQoL_Profile_3;MiscTraining_CombatTraining_Key</li>
+				<li>NiilosQoL_Profile_3;LTS_Tasks_Key</li>
+				<li>NiilosQoL_Profile_3;Gastronomy_Waiting_Key</li>
+				<li>NiilosQoL_Profile_3;FSFScan_Key</li>
+				<li>NiilosQoL_Profile_3;FSFHauling_Key</li>
+				<li>NiilosQoL_Profile_3;FSFDeliver_Key</li>
+				<li>NiilosQoL_Profile_3;FSFCremating_Key</li>
+				<li>NiilosQoL_Profile_3;FSFTransport_Key</li>
+				<li>NiilosQoL_Profile_3;FSFStoneCut_Key</li>
+				<li>NiilosQoL_Profile_3;FSFSmelt_Key</li>
+				<li>NiilosQoL_Profile_3;FSFProduction_Key</li>
+				<li>NiilosQoL_Profile_3;FSFRefining_Key</li>
+				<li>NiilosQoL_Profile_3;FSFFabrication_Key</li>
+				<li>NiilosQoL_Profile_3;FSFMachining_Key</li>
+				<li>NiilosQoL_Profile_3;FSFDrugs_Key</li>
+				<li>NiilosQoL_Profile_3;FSFDrilling_Key</li>
+				<li>NiilosQoL_Profile_3;FSFHarvesting_Key</li>
+				<li>NiilosQoL_Profile_3;FSFDeconstruct_Key</li>
+				<li>NiilosQoL_Profile_3;FSFRepair_Key</li>
+				<li>NiilosQoL_Profile_3;FSFButcher_Key</li>
+				<li>NiilosQoL_Profile_3;FSFTraining_Key</li>
+				<li>NiilosQoL_Profile_3;FSFRearming_Key</li>
+				<li>NiilosQoL_Profile_3;FSFSurgeon_Key</li>
+				<li>NiilosQoL_Profile_3;FSFNurse_Key</li>
+				<li>NiilosQoL_Profile_3;Therapist_Key</li>
+				<li>NiilosQoL_Profile_3;RimefellerCrafting_Key</li>
+				<li>NiilosQoL_Profile_3;NuclearWork_Key</li>
+				<li>NiilosQoL_Profile_3;QuarryMining_Key</li>
+				<li>NiilosQoL_Profile_3;GR_Genetics_Key</li>
+				<li>NiilosQoL_Profile_3;Storefront_Selling_Key</li>
+				<li>NiilosQoL_Profile_3;Diplomat_Key</li>
+				<li>NiilosQoL_Profile_3;VBE_Writing_Key</li>
+				<li>NiilosQoL_Profile_3;AQAquarium_Key</li>
+				<li>NiilosQoL_Profile_3;RB_BeekeepingWork_Key</li>
+				<li>NiilosQoL_Profile_3;FinishingOff_Key</li>
+				<li>NiilosQoL_Profile_3;HaulingUrgent_Key</li>
+				<li>NiilosQoL_Profile_3;VCEF_Fishing_Key</li>
+				<li>NiilosQoL_Profile_3;DarkStudy_Key</li>
+				<li>NiilosQoL_Profile_3;Childcare_Key</li>
+				<li>NiilosQoL_Profile_3;Research_Key</li>
+				<li>NiilosQoL_Profile_3;Cleaning_Key</li>
+				<li>NiilosQoL_Profile_3;Hauling_Key</li>
+				<li>NiilosQoL_Profile_3;Crafting_Key</li>
+				<li>NiilosQoL_Profile_3;Art_Key</li>
+				<li>NiilosQoL_Profile_3;Tailoring_Key</li>
+				<li>NiilosQoL_Profile_3;Smithing_Key</li>
+				<li>NiilosQoL_Profile_3;PlantCutting_Key</li>
+				<li>NiilosQoL_Profile_3;Mining_Key</li>
+				<li>NiilosQoL_Profile_3;Growing_Key</li>
+				<li>NiilosQoL_Profile_3;Construction_Key</li>
+				<li>NiilosQoL_Profile_3;Hunting_Key</li>
+				<li>NiilosQoL_Profile_3;Cooking_Key</li>
+				<li>NiilosQoL_Profile_3;Handling_Key</li>
+				<li>NiilosQoL_Profile_3;Warden_Key</li>
+				<li>NiilosQoL_Profile_3;BasicWorker_Key</li>
+				<li>NiilosQoL_Profile_3;PatientBedRest_Key</li>
+				<li>NiilosQoL_Profile_3;Doctor_Key</li>
+				<li>NiilosQoL_Profile_3;Patient_Key</li>
+				<li>NiilosQoL_Profile_3;Firefighter_Key</li>
+				<li>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion;FSFABEBabyBionics</li>
+				<li>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion;FSFABEBionicsTableOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion;FSFABEBionicsWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion;FSFABEMechanitorImplantRecipes</li>
+				<li>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion;FSFABEDisableOverlaidTexturesOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion;FSFABEUltratechTraderOn</li>
+				<li>NiilosQoL;NiilosQoL_tba_NQoL_Hediff_Necrosis_Gangrene</li>
+				<li>NiilosQoL;tba_MissingBodyPart</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFLargerNeutroamineStorageOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFPsycastTweaksTargetChanges</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFPsycastTweaksSkipshield</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFPsycastTweaksSkip</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFPsycastTweaksSolarPinhole</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFMoreVariedRefugees</li>
+				<li>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion;FSFABEDisableTextureArchotechEye</li>
+				<li>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion;FSFABEDisableTextureBionicEye</li>
+				<li>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion;FSFABEDisableTextureProstheticEye</li>
+				<li>FrozenSnowFox.FrozenSnowFoxAdvancedBionicsExpansion;FSFABEUltratechTraderCommonality</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Smart_Default_Timetable</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Smart_Default_Outfit</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Smart_Default_Food</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Smart_Default_Drugs</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Better_NeedBeds_Alert</li>
+				<li>NiilosQoL;NiilosQoL_Settings_ShowBedAssigneeLover</li>
+				<li>NiilosQoL;NiilosQoL_Settings_CreateHyperLinks</li>
+				<li>NiilosQoL;NiilosQoL_Settings_LetterStack_CloseAllWithMiddleClick</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Contextual_NextPawn</li>
+				<li>NiilosQoL;NiilosQoL_Settings_FloatMenu_TradeWithBest</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Debug_FoundTurrets</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Debug_FoundBeds</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Debug_ResearchCleanup</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Debug_Medical_Helper</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Debug_GermMaker</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Debug_MaskFinder</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Debug_WeaponBalance</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Smart_Default_Timetable</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Smart_Default_Outfit</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Smart_Default_Food</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Smart_Default_Drugs</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Group_Bridges</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_No_Default_Filters_Storage</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Better_NeedBeds_Alert</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_ShowBedAssigneeLover</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_CreateHyperLinks</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_LetterStack_CloseAllWithMiddleClick</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Contextual_NextPawn</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_FloatMenu_TradeWithBest</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Flammability_Fixes</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Debug_FoundTurrets</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Debug_FoundBeds</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Debug_ResearchCleanup</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Debug_Medical_Helper</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Debug_GermMaker</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Debug_MaskFinder</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Debug_WeaponBalance</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Smart_Default_Timetable</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Smart_Default_Outfit</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Smart_Default_Food</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Smart_Default_Drugs</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Group_Bridges</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_No_Default_Filters_Storage</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Better_NeedBeds_Alert</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_ShowBedAssigneeLover</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_CreateHyperLinks</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_LetterStack_CloseAllWithMiddleClick</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Contextual_NextPawn</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_FloatMenu_TradeWithBest</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Flammability_Fixes</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Debug_FoundTurrets</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Debug_FoundBeds</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Debug_ResearchCleanup</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Debug_Medical_Helper</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Debug_GermMaker</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Debug_MaskFinder</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Debug_WeaponBalance</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Smart_Default_Timetable</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Smart_Default_Outfit</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Smart_Default_Food</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Smart_Default_Drugs</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Group_Bridges</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_No_Default_Filters_Storage</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Better_NeedBeds_Alert</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_ShowBedAssigneeLover</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_CreateHyperLinks</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_LetterStack_CloseAllWithMiddleClick</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Contextual_NextPawn</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_FloatMenu_TradeWithBest</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Flammability_Fixes</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Debug_FoundTurrets</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Debug_FoundBeds</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Debug_ResearchCleanup</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Debug_Medical_Helper</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Debug_GermMaker</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Debug_MaskFinder</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Debug_WeaponBalance</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFLargerNeutroamineStorageTank</li>
+				<li>NiilosQoL;RecycleThis_Recycle_Key</li>
+				<li>NiilosQoL_Profile_1;RecycleThis_Recycle_Key</li>
+				<li>NiilosQoL_Profile_2;RecycleThis_Recycle_Key</li>
+				<li>NiilosQoL_Profile_3;RecycleThis_Recycle_Key</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBetterUtilityLayers</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFUpdatePsychicStuff</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFSJWNoGenitalSizeDebuffs</li>
+				<li>NiilosQoL;Brothel_Key</li>
+				<li>NiilosQoL_Profile_1;Brothel_Key</li>
+				<li>NiilosQoL_Profile_2;Brothel_Key</li>
+				<li>NiilosQoL_Profile_3;Brothel_Key</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFAccurateMechDisassemblySubcores</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFPastureGrass</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -2149,7 +2498,7 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
+				<li>False</li>
 				<li>False</li>
 				<li>True</li>
 				<li>False</li>
@@ -2292,13 +2641,13 @@
 				<li>8400000</li>
 				<li>480000</li>
 				<li>0.05</li>
-				<li>0.20</li>
+				<li>0.2</li>
 				<li>0.15</li>
 				<li>0.12</li>
-				<li>0.60</li>
-				<li>0.30</li>
-				<li>0.20</li>
-				<li>1.00</li>
+				<li>0.6</li>
+				<li>0.3</li>
+				<li>0.2</li>
+				<li>1</li>
 				<li>30000</li>
 				<li>3</li>
 				<li>5</li>
@@ -2326,10 +2675,10 @@
 				<li>true</li>
 				<li>1</li>
 				<li>2</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
@@ -2339,8 +2688,8 @@
 				<li>10</li>
 				<li>12</li>
 				<li>18</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
 				<li>0.40</li>
 				<li>0.28</li>
@@ -2365,7 +2714,6 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>true</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -2384,13 +2732,6 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -2399,12 +2740,20 @@
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
 				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>true</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -2471,34 +2820,34 @@
 				<li>498</li>
 				<li>499</li>
 				<li>500</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -2518,7 +2867,7 @@
 				<li>False</li>
 				<li>True</li>
 				<li>True</li>
-				<li>false</li>
+				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -2527,7 +2876,7 @@
 				<li>True</li>
 				<li>False</li>
 				<li>False</li>
-				<li>true</li>
+				<li>True</li>
 				<li>OFF</li>
 				<li>False</li>
 				<li>False</li>
@@ -2595,7 +2944,7 @@
 				<li>13</li>
 				<li>12</li>
 				<li>True</li>
-				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>False</li>
@@ -2707,38 +3056,38 @@
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>800</li>
 				<li>false</li>
 				<li>600</li>
-				<li>false</li>
+				<li>False</li>
 				<li>NiilosQoL</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
 				<li>radioKey_FurnitureCategories_OFF</li>
-				<li>true</li>
+				<li>True</li>
 				<li>900</li>
 				<li>800</li>
 				<li>750</li>
@@ -2770,7 +3119,373 @@
 				<li>50</li>
 				<li>13</li>
 				<li>12</li>
+				<li>True</li>
+				<li>1</li>
+				<li>False</li>
+				<li>10</li>
+				<li>False</li>
+				<li>20</li>
+				<li>False</li>
+				<li>30</li>
+				<li>False</li>
+				<li>31</li>
+				<li>False</li>
+				<li>35</li>
+				<li>False</li>
+				<li>42</li>
+				<li>True</li>
+				<li>43</li>
+				<li>True</li>
+				<li>44</li>
+				<li>True</li>
+				<li>45</li>
+				<li>False</li>
+				<li>50</li>
+				<li>True</li>
+				<li>51</li>
+				<li>False</li>
+				<li>52</li>
+				<li>True</li>
+				<li>65</li>
+				<li>False</li>
+				<li>79</li>
+				<li>False</li>
+				<li>80</li>
+				<li>True</li>
+				<li>81</li>
+				<li>True</li>
+				<li>90</li>
+				<li>True</li>
+				<li>100</li>
+				<li>True</li>
+				<li>110</li>
+				<li>True</li>
+				<li>120</li>
+				<li>True</li>
+				<li>130</li>
+				<li>True</li>
+				<li>140</li>
+				<li>True</li>
+				<li>150</li>
+				<li>True</li>
+				<li>480</li>
+				<li>True</li>
+				<li>498</li>
+				<li>True</li>
+				<li>500</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>4</li>
+				<li>3</li>
+				<li>false</li>
+				<li>1</li>
+				<li>2</li>
+				<li>2</li>
+				<li>2</li>
+				<li>2</li>
+				<li>False</li>
+				<li>false</li>
+				<li>false</li>
+				<li>False</li>
+				<li>false</li>
+				<li>false</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>false</li>
+				<li>800</li>
+				<li>false</li>
+				<li>350</li>
+				<li>False</li>
+				<li>false</li>
+				<li>800</li>
+				<li>false</li>
+				<li>350</li>
+				<li>False</li>
+				<li>false</li>
+				<li>800</li>
+				<li>false</li>
+				<li>350</li>
+				<li>False</li>
+				<li>false</li>
+				<li>600</li>
+				<li>false</li>
+				<li>500</li>
+				<li>False</li>
+				<li>false</li>
+				<li>1000</li>
+				<li>false</li>
+				<li>1120</li>
+				<li>False</li>
+				<li>false</li>
+				<li>800</li>
+				<li>false</li>
+				<li>600</li>
+				<li>OFF</li>
+				<li>OFF</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>Preset_2</li>
+				<li>Rivers_Vanilla</li>
+				<li>False</li>
+				<li>False</li>
+				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>true</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>true</li>
+				<li>False</li>
+				<li>55</li>
+				<li>False</li>
+				<li>0</li>
+				<li>40</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>100</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>NiilosQoL_RadioKey_Floor_Wealth_Mode_Harmony</li>
+				<li>1</li>
+				<li>0.5</li>
+				<li>25</li>
+				<li>0</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>true</li>
+				<li>false</li>
+				<li>False</li>
+				<li>75</li>
+				<li>25</li>
+				<li>False</li>
+				<li>False</li>
+				<li>10</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>false</li>
+				<li>False</li>
+				<li>true</li>
+				<li>true</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>4</li>
+				<li>False</li>
+				<li>False</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>4</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>1</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>False</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>false</li>
+				<li>false</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>radioKey_FurnitureCategories_OFF</li>
+				<li>True</li>
+				<li>900</li>
+				<li>800</li>
+				<li>750</li>
+				<li>700</li>
+				<li>601</li>
+				<li>600</li>
+				<li>500</li>
+				<li>400</li>
+				<li>399</li>
+				<li>398</li>
+				<li>390</li>
+				<li>380</li>
+				<li>370</li>
+				<li>360</li>
+				<li>350</li>
+				<li>300</li>
+				<li>290</li>
+				<li>250</li>
+				<li>249</li>
+				<li>200</li>
+				<li>150</li>
+				<li>140</li>
+				<li>130</li>
+				<li>120</li>
+				<li>100</li>
+				<li>90</li>
+				<li>80</li>
+				<li>70</li>
+				<li>50</li>
+				<li>13</li>
+				<li>12</li>
+				<li>True</li>
 				<li>1</li>
 				<li>false</li>
 				<li>10</li>
@@ -2825,19 +3540,19 @@
 				<li>true</li>
 				<li>500</li>
 				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>4</li>
 				<li>3</li>
 				<li>false</li>
@@ -2846,216 +3561,216 @@
 				<li>2</li>
 				<li>2</li>
 				<li>2</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>800</li>
-				<li>false</li>
-				<li>350</li>
-				<li>false</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
 				<li>false</li>
 				<li>800</li>
 				<li>false</li>
 				<li>350</li>
-				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>800</li>
 				<li>false</li>
 				<li>350</li>
+				<li>False</li>
 				<li>false</li>
+				<li>800</li>
+				<li>false</li>
+				<li>350</li>
+				<li>False</li>
 				<li>false</li>
 				<li>600</li>
 				<li>false</li>
 				<li>500</li>
-				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>1000</li>
 				<li>false</li>
 				<li>1120</li>
-				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>800</li>
 				<li>false</li>
 				<li>600</li>
 				<li>OFF</li>
 				<li>OFF</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>Preset_2</li>
 				<li>Rivers_Vanilla</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>true</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
 				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
+				<li>False</li>
 				<li>55</li>
-				<li>false</li>
+				<li>False</li>
 				<li>0</li>
 				<li>40</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
 				<li>100</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>NiilosQoL_RadioKey_Floor_Wealth_Mode_Harmony</li>
 				<li>1</li>
 				<li>0.5</li>
 				<li>25</li>
 				<li>0</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>true</li>
 				<li>false</li>
-				<li>false</li>
+				<li>False</li>
 				<li>75</li>
 				<li>25</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
 				<li>10</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
 				<li>true</li>
 				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>4</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
@@ -3082,29 +3797,29 @@
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
 				<li>radioKey_FurnitureCategories_OFF</li>
-				<li>true</li>
+				<li>True</li>
 				<li>900</li>
 				<li>800</li>
 				<li>750</li>
@@ -3136,7 +3851,7 @@
 				<li>50</li>
 				<li>13</li>
 				<li>12</li>
-				<li>true</li>
+				<li>True</li>
 				<li>1</li>
 				<li>false</li>
 				<li>10</li>
@@ -3191,19 +3906,19 @@
 				<li>true</li>
 				<li>500</li>
 				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>4</li>
 				<li>3</li>
 				<li>false</li>
@@ -3212,582 +3927,216 @@
 				<li>2</li>
 				<li>2</li>
 				<li>2</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>800</li>
-				<li>false</li>
-				<li>350</li>
-				<li>false</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
 				<li>false</li>
 				<li>800</li>
 				<li>false</li>
 				<li>350</li>
-				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>800</li>
 				<li>false</li>
 				<li>350</li>
+				<li>False</li>
 				<li>false</li>
+				<li>800</li>
+				<li>false</li>
+				<li>350</li>
+				<li>False</li>
 				<li>false</li>
 				<li>600</li>
 				<li>false</li>
 				<li>500</li>
-				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>1000</li>
 				<li>false</li>
 				<li>1120</li>
-				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>800</li>
 				<li>false</li>
 				<li>600</li>
 				<li>OFF</li>
 				<li>OFF</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>Preset_2</li>
 				<li>Rivers_Vanilla</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>true</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
 				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
+				<li>False</li>
 				<li>55</li>
-				<li>false</li>
+				<li>False</li>
 				<li>0</li>
 				<li>40</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
 				<li>100</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>NiilosQoL_RadioKey_Floor_Wealth_Mode_Harmony</li>
 				<li>1</li>
 				<li>0.5</li>
 				<li>25</li>
 				<li>0</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>true</li>
 				<li>false</li>
-				<li>false</li>
+				<li>False</li>
 				<li>75</li>
 				<li>25</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
 				<li>10</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
 				<li>true</li>
 				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>4</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>4</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>1</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>radioKey_FurnitureCategories_OFF</li>
-				<li>true</li>
-				<li>900</li>
-				<li>800</li>
-				<li>750</li>
-				<li>700</li>
-				<li>601</li>
-				<li>600</li>
-				<li>500</li>
-				<li>400</li>
-				<li>399</li>
-				<li>398</li>
-				<li>390</li>
-				<li>380</li>
-				<li>370</li>
-				<li>360</li>
-				<li>350</li>
-				<li>300</li>
-				<li>290</li>
-				<li>250</li>
-				<li>249</li>
-				<li>200</li>
-				<li>150</li>
-				<li>140</li>
-				<li>130</li>
-				<li>120</li>
-				<li>100</li>
-				<li>90</li>
-				<li>80</li>
-				<li>70</li>
-				<li>50</li>
-				<li>13</li>
-				<li>12</li>
-				<li>true</li>
-				<li>1</li>
-				<li>false</li>
-				<li>10</li>
-				<li>false</li>
-				<li>20</li>
-				<li>false</li>
-				<li>30</li>
-				<li>false</li>
-				<li>31</li>
-				<li>false</li>
-				<li>35</li>
-				<li>false</li>
-				<li>42</li>
-				<li>true</li>
-				<li>43</li>
-				<li>true</li>
-				<li>44</li>
-				<li>true</li>
-				<li>45</li>
-				<li>false</li>
-				<li>50</li>
-				<li>true</li>
-				<li>51</li>
-				<li>false</li>
-				<li>52</li>
-				<li>true</li>
-				<li>65</li>
-				<li>false</li>
-				<li>79</li>
-				<li>false</li>
-				<li>80</li>
-				<li>true</li>
-				<li>81</li>
-				<li>true</li>
-				<li>90</li>
-				<li>true</li>
-				<li>100</li>
-				<li>true</li>
-				<li>110</li>
-				<li>true</li>
-				<li>120</li>
-				<li>true</li>
-				<li>130</li>
-				<li>true</li>
-				<li>140</li>
-				<li>true</li>
-				<li>150</li>
-				<li>true</li>
-				<li>480</li>
-				<li>true</li>
-				<li>498</li>
-				<li>true</li>
-				<li>500</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>4</li>
-				<li>3</li>
-				<li>false</li>
-				<li>1</li>
-				<li>2</li>
-				<li>2</li>
-				<li>2</li>
-				<li>2</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>800</li>
-				<li>false</li>
-				<li>350</li>
-				<li>false</li>
-				<li>false</li>
-				<li>800</li>
-				<li>false</li>
-				<li>350</li>
-				<li>false</li>
-				<li>false</li>
-				<li>800</li>
-				<li>false</li>
-				<li>350</li>
-				<li>false</li>
-				<li>false</li>
-				<li>600</li>
-				<li>false</li>
-				<li>500</li>
-				<li>false</li>
-				<li>false</li>
-				<li>1000</li>
-				<li>false</li>
-				<li>1120</li>
-				<li>false</li>
-				<li>false</li>
-				<li>800</li>
-				<li>false</li>
-				<li>600</li>
-				<li>OFF</li>
-				<li>OFF</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>Preset_2</li>
-				<li>Rivers_Vanilla</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>55</li>
-				<li>false</li>
-				<li>0</li>
-				<li>40</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>100</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>NiilosQoL_RadioKey_Floor_Wealth_Mode_Harmony</li>
-				<li>1</li>
-				<li>0.5</li>
-				<li>25</li>
-				<li>0</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>75</li>
-				<li>25</li>
-				<li>false</li>
-				<li>false</li>
-				<li>10</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>4</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
@@ -3814,20 +4163,20 @@
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>540</li>
 				<li>11</li>
 				<li>1.05</li>
@@ -3910,71 +4259,420 @@
 				<li>1.1</li>
 				<li>1.01</li>
 				<li>1.01</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>540</li>
-				<li>11</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>540</li>
 				<li>11</li>
-				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
 				<li>540</li>
 				<li>11</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
-				<li>true</li>
+				<li>false</li>
+				<li>540</li>
+				<li>11</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
 				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
+				<li>True</li>
 				<li>500</li>
 				<li>500</li>
 				<li>500</li>
 				<li>500</li>
 				<li>1.01</li>
+				<li>False</li>
+				<li>False</li>
+				<li>true</li>
+				<li>False</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
 				<li>false</li>
 				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>1.0</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>1000</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
 				<li>true</li>
 				<li>false</li>
 			</values>

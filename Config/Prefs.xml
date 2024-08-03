@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PrefsData>
-  <volumeMaster>0.5045047</volumeMaster>
+  <volumeMaster>0.3980344</volumeMaster>
   <volumeGame>1</volumeGame>
   <volumeMusic>0.01719894</volumeMusic>
   <volumeAmbient>1</volumeAmbient>
   <volumeUI>1</volumeUI>
-  <screenWidth>0</screenWidth>
-  <screenHeight>0</screenHeight>
-  <fullscreen>False</fullscreen>
+  <screenWidth>2560</screenWidth>
+  <screenHeight>1440</screenHeight>
+  <fullscreen>True</fullscreen>
   <uiScale>1</uiScale>
   <customCursorEnabled>True</customCursorEnabled>
   <hatsOnlyOnMap>False</hatsOnlyOnMap>
@@ -43,7 +43,7 @@
   <autosavesCount>5</autosavesCount>
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
   <pauseOnError>False</pauseOnError>
-  <devMode>False</devMode>
+  <devMode>True</devMode>
   <debugActionPalette />
   <devPalettePosition>
     <x>0</x>

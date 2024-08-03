@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TheGodsAreAngry.TGAA_Settings">
+		<consequenceLightningEnabled>False</consequenceLightningEnabled>
+		<consequenceFireEnabled>True</consequenceFireEnabled>
+		<consequenceBlightEnabled>True</consequenceBlightEnabled>
+		<consequenceTaintingEnabled>True</consequenceTaintingEnabled>
+		<consequenceBloodEnabled>True</consequenceBloodEnabled>
+		<consequenceFamineEnabled>True</consequenceFamineEnabled>
+		<consequenceHuntEnabled>True</consequenceHuntEnabled>
+		<consequenceDiseaseEnabled>True</consequenceDiseaseEnabled>
+		<consequenceMadnessEnabled>True</consequenceMadnessEnabled>
+		<consequenceSlumberEnabled>True</consequenceSlumberEnabled>
+		<consequenceArchotechEnabled>True</consequenceArchotechEnabled>
+		<consequenceHateEnabled>True</consequenceHateEnabled>
+		<consequenceSunEnabled>False</consequenceSunEnabled>
+		<consequenceDeathEnabled>True</consequenceDeathEnabled>
+		<consequenceMeteoriteEnabled>True</consequenceMeteoriteEnabled>
+		<consequenceSwarmEnabled>True</consequenceSwarmEnabled>
+		<consequenceRandyEnabled>True</consequenceRandyEnabled>
+		<consequenceStormEnabled>True</consequenceStormEnabled>
+		<blessingZeusEnabled>True</blessingZeusEnabled>
+		<blessingUnityEnabled>True</blessingUnityEnabled>
+		<blessingHarvestEnabled>True</blessingHarvestEnabled>
+		<blessingFeastEnabled>True</blessingFeastEnabled>
+		<blessingHealingEnabled>True</blessingHealingEnabled>
+		<blessingWealthEnabled>True</blessingWealthEnabled>
+		<blessingArchotechEnabled>True</blessingArchotechEnabled>
+		<blessingBacchusEnabled>True</blessingBacchusEnabled>
+		<blessingDestructionEnabled>True</blessingDestructionEnabled>
+		<blessingHasteEnabled>True</blessingHasteEnabled>
+		<blessingHussarEnabled>True</blessingHussarEnabled>
+		<blessingInspirationEnabled>True</blessingInspirationEnabled>
+		<blessingMasteryEnabled>True</blessingMasteryEnabled>
+		<blessingResurrectionEnabled>True</blessingResurrectionEnabled>
+		<blessingRestorationEnabled>True</blessingRestorationEnabled>
+		<blessingSatisfactionEnabled>True</blessingSatisfactionEnabled>
+		<blessingWarEnabled>True</blessingWarEnabled>
+		<blessingWarriorEnabled>True</blessingWarriorEnabled>
+		<frequencyWorst>100</frequencyWorst>
+		<frequencyBad>50</frequencyBad>
+		<frequencyGood>50</frequencyGood>
+		<frequencyBest>100</frequencyBest>
+	</ModSettings>
+</SettingsBlock>

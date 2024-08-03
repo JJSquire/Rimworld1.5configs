@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="ShowHair.Settings">
-		<Hats />
+		<Hats>
+			<li>
+				<defName>WarcasketHelmet_Sentinel</defName>
+				<hideHat>ShowsHair</hideHat>
+			</li>
+		</Hats>
 		<Hair />
 	</ModSettings>
 </SettingsBlock>

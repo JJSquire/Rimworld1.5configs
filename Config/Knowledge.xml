@@ -271,15 +271,15 @@
     </li>
     <li>
       <key>PollutedTerrain</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Babies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Children</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Deathrest</key>
@@ -291,7 +291,7 @@
     </li>
     <li>
       <key>Mechanitors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MechsInCaravans</key>
@@ -343,7 +343,7 @@
     </li>
     <li>
       <key>Concept_SidearmsMissing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsPreference</key>
@@ -379,15 +379,15 @@
     </li>
     <li>
       <key>DW_Penalties</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DW_Settings</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BenLubarsRimBeesPatches_Bees</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BenLubarsRimBeesPatches_Combs</key>
@@ -431,6 +431,30 @@
     </li>
     <li>
       <key>Hospitality</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>Museums_DisplayingItems</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Museums_MuseumTouring</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Museums_BuildingAMuseum</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>GUC_Animal_Handling</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>BM_Mounting</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>BM_Enemy_Mounting</key>
       <value>1</value>
     </li>
   </knowledge>

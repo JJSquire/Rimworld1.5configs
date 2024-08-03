@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="VSE.SkillsModSettings">
-		<maxExpertise>6</maxExpertise>
+		<maxExpertise>10</maxExpertise>
 		<passionCommonalities>
 			<keys>
 				<li>Minor</li>

@@ -116,14 +116,14 @@
     <key>TimeSpeed_Slower</key>
     <value>
       <keyBindingA>End</keyBindingA>
-      <keyBindingB>None</keyBindingB>
+      <keyBindingB>F14</keyBindingB>
     </value>
   </li>
   <li>
     <key>TimeSpeed_Faster</key>
     <value>
       <keyBindingA>Home</keyBindingA>
-      <keyBindingB>None</keyBindingB>
+      <keyBindingB>F15</keyBindingB>
     </value>
   </li>
   <li>
@@ -547,20 +547,6 @@
     </value>
   </li>
   <li>
-    <key>RIMMSQoL_OpenModMenu</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>RIMMSQoL_EditShortcut</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>DesignatorAllow</key>
     <value>
       <keyBindingA>Z</keyBindingA>
@@ -869,9 +855,16 @@
     </value>
   </li>
   <li>
-    <key>MainTab_Chat</key>
+    <key>OpenSexStatistics</key>
     <value>
-      <keyBindingA>P</keyBindingA>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>OpenStatusWindow</key>
+    <value>
+      <keyBindingA>Q</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -886,6 +879,27 @@
     <key>HotkeyTeleport</key>
     <value>
       <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RIMMSQoL_OpenModMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RIMMSQoL_EditShortcut</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MainTab_Chat</key>
+    <value>
+      <keyBindingA>P</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>

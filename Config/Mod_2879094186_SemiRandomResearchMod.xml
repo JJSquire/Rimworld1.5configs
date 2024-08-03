@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="CM_Semi_Random_Research.SemiRandomResearchModSettings">
+		<featureEnabled>False</featureEnabled>
 		<allowManualReroll>Once</allowManualReroll>
 		<amountSelection>PerColonist</amountSelection>
 		<availableProjectCount>6</availableProjectCount>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NQualityOfLife.Settings.NQualityOfLife_Settings">
+		<enableLarge>False</enableLarge>
+	</ModSettings>
+</SettingsBlock>

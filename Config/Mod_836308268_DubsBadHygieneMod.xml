@@ -11,7 +11,7 @@
 		<PriorityIndoorCleaning>True</PriorityIndoorCleaning>
 		<RimefellerLink>True</RimefellerLink>
 		<PassiveWaterCoolers>True</PassiveWaterCoolers>
-		<sosLink>False</sosLink>
+		<sosLink>True</sosLink>
 		<QualityComps>False</QualityComps>
 		<CoolingEfficiency>True</CoolingEfficiency>
 		<RainIrrigation>True</RainIrrigation>

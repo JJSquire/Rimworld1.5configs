@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="BetterAutocastVPE.Settings.AutocastSettings">
+		<MendOnlyNamedStorageGroups>True</MendOnlyNamedStorageGroups>
 		<DeathshieldColonyAnimals>False</DeathshieldColonyAnimals>
 		<WordOfSerenityTargetColonists>True</WordOfSerenityTargetColonists>
 		<WordOfSerenityIgnoredMentalStateDefs>
@@ -34,6 +35,8 @@
 			<li>VPE_WordofProductivity</li>
 			<li>VPE_WordofSerenity</li>
 			<li>VPEP_BrainLeech</li>
+			<li>VPE_IceCrystal</li>
+			<li>VPE_SolarPinhole</li>
 		</UndraftedAutocastDefs>
 		<BlockedJobDefs>
 			<li>DeliverToBed</li>

@@ -178,6 +178,25 @@
 				<li>BeeHiveSprout</li>
 				<li>TraitChange</li>
 				<li>TraitRemove</li>
+				<li>ArchoGenes_BioUnitPodCrash</li>
+				<li>AP_metalstormAssault</li>
+				<li>NAT_WarpedObelisk_Inducer</li>
+				<li>NAT_Collector</li>
+				<li>NAT_RustedArmyRaid</li>
+				<li>NAT_RustedMassArrival</li>
+				<li>NAT_PainTransformation</li>
+				<li>NAT_SkullArrival</li>
+				<li>NymphJoins</li>
+				<li>NymphVisitor</li>
+				<li>NymphVisitorGroupEasy</li>
+				<li>NymphVisitorGroupHard</li>
+				<li>SuccubusDreamVisit</li>
+				<li>PsychicArouse</li>
+				<li>VFEM_ShipLandFrigate</li>
+				<li>VFEM_ShipLandDestroyer</li>
+				<li>VFEM_ShipLandCruiser</li>
+				<li>VFEM_ShipLandTroopship</li>
+				<li>VFEM_ShipLandCarrier</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -316,6 +335,25 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -532,6 +570,25 @@
 				<li>BeeHiveSprout</li>
 				<li>TraitChange</li>
 				<li>TraitRemove</li>
+				<li>ArchoGenes_BioUnitPodCrash</li>
+				<li>AP_metalstormAssault</li>
+				<li>NAT_WarpedObelisk_Inducer</li>
+				<li>NAT_Collector</li>
+				<li>NAT_RustedArmyRaid</li>
+				<li>NAT_RustedMassArrival</li>
+				<li>NAT_PainTransformation</li>
+				<li>NAT_SkullArrival</li>
+				<li>NymphJoins</li>
+				<li>NymphVisitor</li>
+				<li>NymphVisitorGroupEasy</li>
+				<li>NymphVisitorGroupHard</li>
+				<li>SuccubusDreamVisit</li>
+				<li>PsychicArouse</li>
+				<li>VFEM_ShipLandFrigate</li>
+				<li>VFEM_ShipLandDestroyer</li>
+				<li>VFEM_ShipLandCruiser</li>
+				<li>VFEM_ShipLandTroopship</li>
+				<li>VFEM_ShipLandCarrier</li>
 			</keys>
 			<values>
 				<li>1</li>
@@ -708,6 +765,25 @@
 				<li>0.35</li>
 				<li>0.6</li>
 				<li>0.6</li>
+				<li>0</li>
+				<li>0.5</li>
+				<li>0.5</li>
+				<li>0.7</li>
+				<li>1.5</li>
+				<li>0.5</li>
+				<li>1</li>
+				<li>2.5</li>
+				<li>0.67</li>
+				<li>0.67</li>
+				<li>0.09999999</li>
+				<li>0.01</li>
+				<li>1</li>
+				<li>1</li>
+				<li>0.09999999</li>
+				<li>0.09999999</li>
+				<li>0.07</li>
+				<li>0.05</li>
+				<li>0.02</li>
 			</values>
 		</incidentsOccurence>
 		<incidentsOccurenceForReset>
@@ -886,6 +962,25 @@
 				<li>BeeHiveSprout</li>
 				<li>TraitChange</li>
 				<li>TraitRemove</li>
+				<li>ArchoGenes_BioUnitPodCrash</li>
+				<li>AP_metalstormAssault</li>
+				<li>NAT_WarpedObelisk_Inducer</li>
+				<li>NAT_Collector</li>
+				<li>NAT_RustedArmyRaid</li>
+				<li>NAT_RustedMassArrival</li>
+				<li>NAT_PainTransformation</li>
+				<li>NAT_SkullArrival</li>
+				<li>NymphJoins</li>
+				<li>NymphVisitor</li>
+				<li>NymphVisitorGroupEasy</li>
+				<li>NymphVisitorGroupHard</li>
+				<li>SuccubusDreamVisit</li>
+				<li>PsychicArouse</li>
+				<li>VFEM_ShipLandFrigate</li>
+				<li>VFEM_ShipLandDestroyer</li>
+				<li>VFEM_ShipLandCruiser</li>
+				<li>VFEM_ShipLandTroopship</li>
+				<li>VFEM_ShipLandCarrier</li>
 			</keys>
 			<values>
 				<li>1</li>
@@ -1062,6 +1157,25 @@
 				<li>0.35</li>
 				<li>0.6</li>
 				<li>0.6</li>
+				<li>0.001</li>
+				<li>0.5</li>
+				<li>0.5</li>
+				<li>0.7</li>
+				<li>1.5</li>
+				<li>0.5</li>
+				<li>1</li>
+				<li>2.5</li>
+				<li>0.67</li>
+				<li>0.67</li>
+				<li>0.1</li>
+				<li>0.01</li>
+				<li>1</li>
+				<li>1</li>
+				<li>0.1</li>
+				<li>0.1</li>
+				<li>0.07</li>
+				<li>0.05</li>
+				<li>0.02</li>
 			</values>
 		</incidentsOccurenceForReset>
 	</ModSettings>
