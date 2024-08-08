@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PrefsData>
-  <volumeMaster>0.3980344</volumeMaster>
+  <volumeMaster>0.6007371</volumeMaster>
   <volumeGame>1</volumeGame>
   <volumeMusic>0.01719894</volumeMusic>
   <volumeAmbient>1</volumeAmbient>
@@ -43,7 +43,7 @@
   <autosavesCount>5</autosavesCount>
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
   <pauseOnError>False</pauseOnError>
-  <devMode>True</devMode>
+  <devMode>False</devMode>
   <debugActionPalette />
   <devPalettePosition>
     <x>0</x>

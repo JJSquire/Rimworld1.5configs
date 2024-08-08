@@ -231,7 +231,7 @@
     </li>
     <li>
       <key>ArrestingCreatesEnemies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
@@ -455,6 +455,30 @@
     </li>
     <li>
       <key>BM_Enemy_Mounting</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>gitsMicromachinesTutor</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>gitsCyberbrainsTutor</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>gitsCyberizationStagesTutor</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>gitsCyberbrainAbilitiesTutor</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>gitsCyberbrainDiseasesTutor</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>Museums_DisplayableItemRestrictions</key>
       <value>1</value>
     </li>
   </knowledge>

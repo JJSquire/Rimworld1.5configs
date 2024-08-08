@@ -397,6 +397,9 @@
 				<li>VDE_AwakenedDryad_Stonedigger/0</li>
 				<li>VDE_AwakenedDryad_Spitter/0</li>
 				<li>VFE_Mech_Slurrymaster/0</li>
+				<li>BotchJob_UndeadDragon/0</li>
+				<li>TentacleMonster/2</li>
+				<li>TentacleWarMonster/2</li>
 			</keys>
 			<values>
 				<li>1.03125</li>
@@ -791,6 +794,9 @@
 				<li>1.226563</li>
 				<li>0.3633594</li>
 				<li>1.621191</li>
+				<li>0.699707</li>
+				<li>1.022949</li>
+				<li>1.984082</li>
 			</values>
 		</offsetCache>
 	</ModSettings>

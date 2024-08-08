@@ -135,6 +135,10 @@
 				<enabled>True</enabled>
 			</li>
 			<li>
+				<def>AAAA_EmergencySpeaker</def>
+				<enabled>True</enabled>
+			</li>
+			<li>
 				<def>MintBillMenu</def>
 				<enabled>False</enabled>
 			</li>
