@@ -139,6 +139,10 @@
 				<enabled>True</enabled>
 			</li>
 			<li>
+				<def>TM_GolemButton</def>
+				<enabled>True</enabled>
+			</li>
+			<li>
 				<def>MintBillMenu</def>
 				<enabled>False</enabled>
 			</li>
@@ -322,6 +326,10 @@
 			</li>
 			<li>
 				<def>Planning</def>
+				<enabled>True</enabled>
+			</li>
+			<li>
+				<def>VFEI2_Insectoids</def>
 				<enabled>True</enabled>
 			</li>
 		</DesignationCategoryStates>

@@ -274,6 +274,11 @@
 					<innerKeys />
 					<innerValues />
 				</li>
+				<li>
+					<key>ColonialShuttle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
 			</fieldSettings>
 			<vanillaStats />
 			<vehicleStats />

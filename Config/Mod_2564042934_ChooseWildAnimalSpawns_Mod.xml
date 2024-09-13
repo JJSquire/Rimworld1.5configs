@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ChooseWildAnimalSpawns.ChooseWildAnimalSpawns_Settings">
+		<CustomSpawnRates>
+			<keys />
+			<values />
+		</CustomSpawnRates>
+		<CustomDensities>
+			<keys />
+			<values />
+		</CustomDensities>
+	</ModSettings>
+</SettingsBlock>

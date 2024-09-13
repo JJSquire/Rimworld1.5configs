@@ -43,7 +43,7 @@
   <autosavesCount>5</autosavesCount>
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
   <pauseOnError>False</pauseOnError>
-  <devMode>False</devMode>
+  <devMode>True</devMode>
   <debugActionPalette />
   <devPalettePosition>
     <x>0</x>

@@ -481,5 +481,17 @@
       <key>Museums_DisplayableItemRestrictions</key>
       <value>1</value>
     </li>
+    <li>
+      <key>TM_Portals</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>TM_Enchanting</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>TM_EnchantingII</key>
+      <value>0</value>
+    </li>
   </knowledge>
 </ConceptKnowledge>

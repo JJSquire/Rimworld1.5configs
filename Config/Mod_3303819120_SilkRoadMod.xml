@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SilkRoad.SilkRoadModSettings">
+		<enabled>False</enabled>
+		<groupSize>4</groupSize>
+		<spawnFrequency>120</spawnFrequency>
+		<nightTravel>False</nightTravel>
+		<noTraders>False</noTraders>
+		<useRoads>True</useRoads>
+		<onlyUseRoads>False</onlyUseRoads>
+		<doMessage>False</doMessage>
+		<advancedSettings>False</advancedSettings>
+		<excludedFactionDefs />
+	</ModSettings>
+</SettingsBlock>

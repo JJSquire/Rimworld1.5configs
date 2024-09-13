@@ -2395,6 +2395,66 @@
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFSaplingFatigueDays</li>
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFVRESauridEggHatchDays</li>
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFVRESauridEggFatigueDays</li>
+				<li>NiilosQoL;FSFMerge_Key</li>
+				<li>NiilosQoL_Profile_1;FSFMerge_Key</li>
+				<li>NiilosQoL_Profile_2;FSFMerge_Key</li>
+				<li>NiilosQoL_Profile_3;FSFMerge_Key</li>
+				<li>zenlor.MOTweaks;mot-integration-advdeepdrill-gems</li>
+				<li>zenlor.MOTweaks;mot-integration-advdeepdrill-ore</li>
+				<li>zenlor.MOTweaks;mot-integration-dbh-irrigation</li>
+				<li>zenlor.MOTweaks;mot-integration-dbh-heating</li>
+				<li>zenlor.MOTweaks;mot-integration-dbh-recipes</li>
+				<li>zenlor.MOTweaks;mot-integration-cashregister</li>
+				<li>zenlor.MOTweaks;mot-mineshaft-gems</li>
+				<li>zenlor.MOTweaks;mot-mineshaft-gems-work</li>
+				<li>zenlor.MOTweaks;mot-workbench-recipes</li>
+				<li>zenlor.MOTweaks;mot-cooking-recipes</li>
+				<li>zenlor.MOTweaks;mot-recipes-anvil</li>
+				<li>zenlor.MOTweaks;mot-tailoring-recipes</li>
+				<li>zenlor.MOTweaks;mot-darkforest-easy</li>
+				<li>zenlor.MOTweaks;mot-darkforest-hard</li>
+				<li>zenlor.MOTweaks;mot-dangerous-patches</li>
+				<li>zenlor.MOTweaks;mot-lagfree-lamps</li>
+				<li>zenlor.MOTweaks;mot-scenario-fix</li>
+				<li>zenlor.MOTweaks;mot-integration-mendandrecycle</li>
+				<li>zenlor.MOTweaks;mot-integration-packedsanddirt</li>
+				<li>zenlor.MOTweaks;mot-integration-vfeclassical</li>
+				<li>zenlor.MOTweaks;mot-integration-vfetribal</li>
+				<li>zenlor.MOTweaks;mot-integration-vfetribal-research</li>
+				<li>Neko.Thunderstorm;NTS_toggleRain</li>
+				<li>Neko.Thunderstorm;NTS_toggleThunder</li>
+				<li>Neko.Thunderstorm;NTS_toggleThunderDistant</li>
+				<li>zenlor.MOTweaks;mot-integration-royalty</li>
+				<li>zenlor.MOTweaks;mot-anvil-recipes</li>
+				<li>zenlor.MOTweaks;mot-milkable-rox</li>
+				<li>zenlor.MOTweaks;mot-integration-adobeabode</li>
+				<li>zenlor.MOTweaks;mot-integration-fortifications-medieval</li>
+				<li>zenlor.MOTweaks;mot-integration-morelinkables</li>
+				<li>zenlor.MOTweaks;mot-integration-straitvalues</li>
+				<li>zenlor.MOTweaks;mot-integration-simplelandfill</li>
+				<li>zenlor.MOTweaks;mot-integration-windows</li>
+				<li>NiilosQoL;HPGMGenerate_Key</li>
+				<li>NiilosQoL_Profile_1;HPGMGenerate_Key</li>
+				<li>NiilosQoL_Profile_2;HPGMGenerate_Key</li>
+				<li>NiilosQoL_Profile_3;HPGMGenerate_Key</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFMetalFlammabilityIron</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Limit_Disease_Incident_Pawns_Bool</li>
+				<li>NiilosQoL;TM_Magic_Key</li>
+				<li>NiilosQoL;NiilosQoL_Settings_AllowForcedSlowOverride</li>
+				<li>NiilosQoL;NiilosQoL_Settings_Limit_Disease_Incident_Pawns_Int</li>
+				<li>NiilosQoL_Profile_1;TM_Magic_Key</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_AllowForcedSlowOverride</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Limit_Disease_Incident_Pawns_Bool</li>
+				<li>NiilosQoL_Profile_1;NiilosQoL_Settings_Limit_Disease_Incident_Pawns_Int</li>
+				<li>NiilosQoL_Profile_2;TM_Magic_Key</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_AllowForcedSlowOverride</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Limit_Disease_Incident_Pawns_Bool</li>
+				<li>NiilosQoL_Profile_2;NiilosQoL_Settings_Limit_Disease_Incident_Pawns_Int</li>
+				<li>NiilosQoL_Profile_3;TM_Magic_Key</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_AllowForcedSlowOverride</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Limit_Disease_Incident_Pawns_Bool</li>
+				<li>NiilosQoL_Profile_3;NiilosQoL_Settings_Limit_Disease_Incident_Pawns_Int</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFCSSmarterCleaning</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -2514,7 +2574,7 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -2666,9 +2726,9 @@
 				<li>3</li>
 				<li>9</li>
 				<li>10</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>2.0</li>
 				<li>2.0</li>
 				<li>25</li>
@@ -2738,7 +2798,7 @@
 				<li>False</li>
 				<li>false</li>
 				<li>false</li>
-				<li>false</li>
+				<li>False</li>
 				<li>120000</li>
 				<li>360000</li>
 				<li>12</li>
@@ -3119,7 +3179,7 @@
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
-				<li>false</li>
+				<li>False</li>
 				<li>False</li>
 				<li>false</li>
 				<li>800</li>
@@ -4731,23 +4791,23 @@
 				<li>0</li>
 				<li>0</li>
 				<li>true</li>
-				<li>false</li>
+				<li>False</li>
 				<li>0</li>
 				<li>0</li>
 				<li>0</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>6</li>
+				<li>False</li>
 				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>true</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
 				<li>true</li>
 				<li>false</li>
 				<li>false</li>
@@ -4789,6 +4849,66 @@
 				<li>18</li>
 				<li>18</li>
 				<li>18</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>true</li>
+				<li>1600</li>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>true</li>
+				<li>false</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0.00</li>
+				<li>false</li>
+				<li>0</li>
+				<li>false</li>
+				<li>3</li>
+				<li>0</li>
+				<li>false</li>
+				<li>false</li>
+				<li>3</li>
+				<li>0</li>
+				<li>false</li>
+				<li>false</li>
+				<li>3</li>
+				<li>0</li>
+				<li>false</li>
+				<li>false</li>
+				<li>3</li>
+				<li>false</li>
 			</values>
 		</dataDict>
 		<PinnedMods />

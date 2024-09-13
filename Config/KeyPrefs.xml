@@ -869,6 +869,13 @@
     </value>
   </li>
   <li>
+    <key>OpenChooseYourOutfitDialog</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>

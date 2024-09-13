@@ -2,6 +2,8 @@
 <SettingsBlock>
 	<ModSettings Class="PCC_Code.PCCSettings">
 		<maxTraits>8.202153</maxTraits>
+		<minTraits>1.184211</minTraits>
+		<FreqChange>6.818182</FreqChange>
 		<traitSettings>
 			<keys>
 				<li>Nudist</li>
@@ -374,6 +376,82 @@
 				<li>TM_Chempunk</li>
 				<li>TM_Explorer</li>
 				<li>TM_Architect</li>
+				<li>BS_Gentle</li>
+				<li>BS_Giant</li>
+				<li>FT_StrongBack</li>
+				<li>FT_Packing</li>
+				<li>FT_Adventuring</li>
+				<li>FT_Charisma</li>
+				<li>FT_Intimidation</li>
+				<li>FT_AimOffset</li>
+				<li>FT_Artisan</li>
+				<li>FT_IronStomach</li>
+				<li>FT_Agility</li>
+				<li>FT_Intelligence</li>
+				<li>FT_Perception</li>
+				<li>FT_Evasion</li>
+				<li>FT_Bandolier</li>
+				<li>FT_SturdyFrame</li>
+				<li>FT_BearArms</li>
+				<li>FT_FrailBack</li>
+				<li>FT_Scientific</li>
+				<li>FT_Endurance</li>
+				<li>FT_Bargaining</li>
+				<li>FT_Inspiration</li>
+				<li>FT_Generosity</li>
+				<li>FT_Scrapper</li>
+				<li>FT_NaturalLeader</li>
+				<li>FT_RadResistant</li>
+				<li>FT_ActionBoy</li>
+				<li>FT_ActionGirl</li>
+				<li>FT_QuickHands</li>
+				<li>FT_GunNut</li>
+				<li>FT_Scrounger</li>
+				<li>FT_Survivalist</li>
+				<li>FT_Blitz</li>
+				<li>FT_Philanthropist</li>
+				<li>FT_HealingHands</li>
+				<li>FT_Rooted</li>
+				<li>FT_LeadBelly</li>
+				<li>FT_Serendipitous</li>
+				<li>FT_GreenThumb</li>
+				<li>FT_Tenderizer</li>
+				<li>FT_FortuneFinder</li>
+				<li>FT_BountifulButcher</li>
+				<li>FT_AnimalFriend</li>
+				<li>FT_Magnetic</li>
+				<li>FT_LifeGiver</li>
+				<li>FT_SpiritualHealer</li>
+				<li>FT_Ghoulish</li>
+				<li>FT_IdiotSavant</li>
+				<li>FT_Stupid</li>
+				<li>FT_Oblivious</li>
+				<li>FT_Woodchucker</li>
+				<li>FT_WreckingBall</li>
+				<li>FT_Perfectionist</li>
+				<li>FT_IronFist</li>
+				<li>Gigantism</li>
+				<li>Large</li>
+				<li>Small</li>
+				<li>Dwarfism</li>
+				<li>Passioned_Learning</li>
+				<li>Very_Passioned_Learning</li>
+				<li>BS_AnimalFriend</li>
+				<li>BS_AlcoholAddict</li>
+				<li>BS_InsultProof</li>
+				<li>BS_Unpretentious</li>
+				<li>Rapist</li>
+				<li>Necrophiliac</li>
+				<li>Zoophile</li>
+				<li>Nymphomaniac</li>
+				<li>FootSlut</li>
+				<li>CumSlut</li>
+				<li>ButtSlut</li>
+				<li>Virgin</li>
+				<li>LM_NaturalHucow</li>
+				<li>LM_HighTestosterone</li>
+				<li>LM_NaturalCow</li>
+				<li>LikesCumflation</li>
 			</keys>
 			<values>
 				<li>AnyChange</li>
@@ -390,7 +468,7 @@
 				<li>AnyChange</li>
 				<li>AnyChange</li>
 				<li>AnyChange</li>
-				<li>AnyChange</li>
+				<li>AddNoRemove</li>
 				<li>AnyChange</li>
 				<li>AnyChange</li>
 				<li>AnyChange</li>
@@ -746,6 +824,82 @@
 				<li>NeverChangeModConflict</li>
 				<li>NeverChangeModConflict</li>
 				<li>NeverChangeModConflict</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
+				<li>AnyChange</li>
 			</values>
 		</traitSettings>
 	</ModSettings>

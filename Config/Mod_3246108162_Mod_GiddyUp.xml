@@ -400,6 +400,68 @@
 				<li>BotchJob_UndeadDragon/0</li>
 				<li>TentacleMonster/2</li>
 				<li>TentacleWarMonster/2</li>
+				<li>DankPyon_Daer/2</li>
+				<li>DankPyon_DireBoar/2</li>
+				<li>DankPyon_Ghoul_Stage_Two/0</li>
+				<li>DankPyon_Ghoul_Stage_Three/0</li>
+				<li>DankPyon_Griffon/2</li>
+				<li>DankPyon_Rox/2</li>
+				<li>DankPyon_GiantConstrictorForest/2</li>
+				<li>DankPyon_GiantConstrictorCave/2</li>
+				<li>DankPyon_LindwurmForest/2</li>
+				<li>DankPyon_LindwurmCave/2</li>
+				<li>DankPyon_AncientTroll/2</li>
+				<li>DankPyon_UnholdPlain/2</li>
+				<li>DankPyon_UnholdSwamp/2</li>
+				<li>DankPyon_UnholdSnow/2</li>
+				<li>pphhyy_NorthernHorse/2</li>
+				<li>pphhyy_Vargulf/2</li>
+				<li>pphhyy_Demigryph/2</li>
+				<li>pphhyy_CrimsonDemigryph/2</li>
+				<li>pphhyy_CheetahDemigryph/2</li>
+				<li>pphhyy_VultureDemigryph/2</li>
+				<li>pphhyy_LeopardDemigryph/2</li>
+				<li>pphhyy_PantherDemigryph/2</li>
+				<li>pphhyy_TigerDemigryph/2</li>
+				<li>pphhyy_Daermigryph/2</li>
+				<li>pphhyy_JadeDemigryph/2</li>
+				<li>TM_Demon/0</li>
+				<li>TM_LesserDemon/0</li>
+				<li>TM_Dire_Wolf/2</li>
+				<li>TM_LesserEarth_Elemental/0</li>
+				<li>TM_Earth_Elemental/0</li>
+				<li>TM_GreaterEarth_Elemental/0</li>
+				<li>TM_LesserFire_Elemental/0</li>
+				<li>TM_Fire_Elemental/0</li>
+				<li>TM_GreaterFire_Elemental/0</li>
+				<li>TM_LesserWater_Elemental/0</li>
+				<li>TM_Water_Elemental/0</li>
+				<li>TM_GreaterWater_Elemental/0</li>
+				<li>TM_LesserWind_Elemental/0</li>
+				<li>TM_Wind_Elemental/0</li>
+				<li>TM_GreaterWind_Elemental/0</li>
+				<li>TM_Minion/0</li>
+				<li>TM_GreaterMinion/0</li>
+				<li>TM_SpiritWolf/0</li>
+				<li>VFEI2_Acidspitter/2</li>
+				<li>VFEI2_Empress/2</li>
+				<li>VFEI2_Fuelmite/2</li>
+				<li>VFEI2_Gigalocust/2</li>
+				<li>VFEI2_Gigamite/2</li>
+				<li>VFEI2_Ironclad/2</li>
+				<li>VFEI2_Megapede/2</li>
+				<li>VFEI2_Megawasp/2</li>
+				<li>VFEI2_Queen/2</li>
+				<li>VFEI2_Silverfish/2</li>
+				<li>VFEI2_Tankroach/2</li>
+				<li>VFEI2_Teramantis/2</li>
+				<li>VFEI2_Titantick/2</li>
+				<li>VFEI2_BlackEmpress/2</li>
+				<li>VFEI2_BlackQueen/2</li>
+				<li>SW_Electricgryllotalpa/2</li>
+				<li>SW_Grenadierworm/2</li>
+				<li>SW_Juggernautbeetles/2</li>
+				<li>SW_Emperorisopod/2</li>
 			</keys>
 			<values>
 				<li>1.03125</li>
@@ -797,6 +859,68 @@
 				<li>0.699707</li>
 				<li>1.022949</li>
 				<li>1.984082</li>
+				<li>1.421728</li>
+				<li>0.9835742</li>
+				<li>1.428769</li>
+				<li>1.984082</li>
+				<li>2.235078</li>
+				<li>1.283398</li>
+				<li>1.100273</li>
+				<li>1.120737</li>
+				<li>0.9499999</li>
+				<li>0.959375</li>
+				<li>2.098906</li>
+				<li>1.984375</li>
+				<li>2.054883</li>
+				<li>2.167695</li>
+				<li>0.5507813</li>
+				<li>0.7631446</li>
+				<li>0.7080371</li>
+				<li>0.7080371</li>
+				<li>0.7080371</li>
+				<li>0.7080371</li>
+				<li>0.7080371</li>
+				<li>0.7080371</li>
+				<li>0.7080371</li>
+				<li>0.7030273</li>
+				<li>0.7080371</li>
+				<li>1.691406</li>
+				<li>1.214844</li>
+				<li>0.6107617</li>
+				<li>-0.06210935</li>
+				<li>-0.5117968</li>
+				<li>-0.9052734</li>
+				<li>0.07841796</li>
+				<li>-0.3431641</li>
+				<li>-0.6242187</li>
+				<li>0.05031249</li>
+				<li>-0.5117968</li>
+				<li>-0.8490626</li>
+				<li>0.05031249</li>
+				<li>-0.3431641</li>
+				<li>-0.6242187</li>
+				<li>0.9274532</li>
+				<li>1.034316</li>
+				<li>0.5046875</li>
+				<li>1.355957</li>
+				<li>2.09707</li>
+				<li>1.068359</li>
+				<li>1.216797</li>
+				<li>1.941172</li>
+				<li>1.015039</li>
+				<li>1.059082</li>
+				<li>0.6972656</li>
+				<li>2.023047</li>
+				<li>1.243906</li>
+				<li>1.059082</li>
+				<li>1.555625</li>
+				<li>1.929688</li>
+				<li>-0.9035937</li>
+				<li>1.516504</li>
+				<li>0.8088379</li>
+				<li>1.504883</li>
+				<li>1.293359</li>
+				<li>1.636719</li>
 			</values>
 		</offsetCache>
 	</ModSettings>

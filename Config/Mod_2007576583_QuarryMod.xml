@@ -6,14 +6,13 @@
 		<QRY_OreDictionary>
 			<li>
 				<thingDef>Steel</thingDef>
-				<count>112</count>
 			</li>
 			<li>
-				<thingDef>Silver</thingDef>
+				<thingDef>DankPyon_SilverOre</thingDef>
 				<count>3</count>
 			</li>
 			<li>
-				<thingDef>Gold</thingDef>
+				<thingDef>DankPyon_GoldOre</thingDef>
 				<count>3</count>
 			</li>
 			<li>
@@ -21,8 +20,8 @@
 				<count>8</count>
 			</li>
 			<li>
-				<thingDef>Plasteel</thingDef>
-				<count>8</count>
+				<thingDef>DankPyon_PlasteelOre</thingDef>
+				<count>6</count>
 			</li>
 			<li>
 				<thingDef>Jade</thingDef>
@@ -32,15 +31,70 @@
 				<thingDef>VPE_Eltex</thingDef>
 			</li>
 			<li>
+				<thingDef>AA_SkySteel</thingDef>
+			</li>
+			<li>
+				<thingDef>DankPyon_Coal</thingDef>
+				<count>112</count>
+			</li>
+			<li>
+				<thingDef>DankPyon_Salt</thingDef>
+				<count>70</count>
+			</li>
+			<li>
+				<thingDef>DankPyon_GoldOre</thingDef>
+				<count>3</count>
+			</li>
+			<li>
+				<thingDef>DankPyon_IronOre</thingDef>
+				<count>112</count>
+			</li>
+			<li>
+				<thingDef>DankPyon_Citrine</thingDef>
+				<count>7</count>
+			</li>
+			<li>
+				<thingDef>DankPyon_Amber</thingDef>
+				<count>4</count>
+			</li>
+			<li>
+				<thingDef>DankPyon_Onyx</thingDef>
+				<count>20</count>
+			</li>
+			<li>
+				<thingDef>DankPyon_Emerald</thingDef>
+				<count>10</count>
+			</li>
+			<li>
+				<thingDef>DankPyon_Sapphire</thingDef>
+				<count>2</count>
+			</li>
+			<li>
+				<thingDef>DankPyon_Ruby</thingDef>
+				<count>1</count>
+			</li>
+			<li>
+				<thingDef>DankPyon_IronOre</thingDef>
+			</li>
+			<li>
+				<thingDef>DankPyon_SilverOre</thingDef>
+			</li>
+			<li>
+				<thingDef>DankPyon_IronOre</thingDef>
+			</li>
+			<li>
+				<thingDef>DankPyon_SilverOre</thingDef>
+			</li>
+			<li>
+				<thingDef>DankPyon_GoldOre</thingDef>
+			</li>
+			<li>
 				<thingDef>BMT_AmberResource</thingDef>
 				<count>3</count>
 			</li>
 			<li>
 				<thingDef>BMT_FossilResource</thingDef>
 				<count>5</count>
-			</li>
-			<li>
-				<thingDef>AA_SkySteel</thingDef>
 			</li>
 			<li>
 				<thingDef>Z_Amethyst</thingDef>
